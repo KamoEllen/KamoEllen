@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm KamoEllen 👋</h1>
 <h3 align="center">A passionate full-stack developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fi.imgur.com%2FAcxzWfX.gifv&psig=AOvVaw26Az_qh5M_lEusSOPJeAJt&ust=1665907353291000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjIsNPi4foCFQAAAAAdAAAAABAJ-gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/AcxzWfX.gif">
 
 - 🔭 I’m currently working on **building an API with C++**
 
