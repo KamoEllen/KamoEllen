@@ -4,6 +4,14 @@
 <h3 align="center">A passionate full-stack developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/AcxzWfX.gif">
 
+<h4 align="center"> Full-Stack Developer | C++ Developer |JavaScript Developer | React/Web Developer | Designer   <br> </h4>
+
+**Knowledge of:**  <br>
+Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Javascript, DOM, jQuery, Bootstrap, JSON, AXIOS, NPM, NoSQL databases, Python, NodeJS, Canva, Object-Orientated Programming,Scratch , WIX,Figma, Gimp, Microsoft,Linux.
+
+**Deployment platforms**  such as GitHub pages Netlify.
+
+
 - 🔭 I’m currently working on **building an API with C++**
 
 - 🌱 I’m currently learning **API**
