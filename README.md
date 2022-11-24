@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm KamoEllen 👋</h1>
 <h1 align="center"> Welcome to my GitHub 💖 <br></h1> 
-<h3 align="center">_________________________________________________
-A passionate full-stack developer from South Africa_________________________________________________
-</h3>
+<h3 align="center">___________________________A passionate full-stack developer from South Africa__________________
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/AcxzWfX.gif">
+  
+  
 
 <h4 align="center"> Full-Stack Developer | C++ Developer |JavaScript Developer | React/Web Developer | Designer   <br> </h4>
 
@@ -37,3 +37,11 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=true&locale=en" alt="kamoellen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamoellen&" alt="kamoellen" /></p>
+  
+  ### Certfications
+<p align="center">From Linkedin</p>
+
+
+### Hobbies
+<p align="center">Yoga |Dance | Sing | Jogging | Rock climbing | Boxing </p>
+<p align="center">Drawing | Listening to documentary| Reading </p>
