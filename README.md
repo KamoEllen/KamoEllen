@@ -40,6 +40,25 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=true&locale=en" alt="kamoellen" /></p>
 
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KamoEllen&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KamoEllen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KamoEllen&icon=7&color=5)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KamoEllen) 
+
+  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamoellen&" alt="kamoellen" /></p>
 
 ### Hobbies
