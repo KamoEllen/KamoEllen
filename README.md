@@ -15,17 +15,17 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 **Deployment platforms**  such as GitHub pages Netlify.
 
 
-- 🔭 I’m currently working on **building an API with C++**
+- 💖 I’m currently working on **building an API with C++**
 
 - 🌱 I’m currently learning **API**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 💖 I’m looking to collaborate on **Web Development**
 
-- 📫 How to reach me **kamoellenkganakga@gmail.com**
+- 🌱 How to reach me **kamoellenkganakga@gmail.com**
 
-- ✨ Fun fact **I am an artist**
+- 💖 Fun fact **I am an artist**
   
- -Linkedin **https://www.linkedin.com/in/kamogelo-kganakga**
+ -🌱 Linkedin **https://www.linkedin.com/in/kamogelo-kganakga**
   
 
 
@@ -41,15 +41,6 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=true&locale=en" alt="kamoellen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamoellen&" alt="kamoellen" /></p>
-  
-  ### Certfications
-  <a align="right" alt="cert" width="400" src="https://www.linkedin.com/in/kamogelo-kganakga">
-  
- <p align="center"> From Linkedin https://www.linkedin.com/in/kamogelo-kganakga </p>
- 
-  
-  
-
 
 ### Hobbies
 <p align="center">Yoga |Dance | Sing | Jogging | Rock climbing | Boxing </p>
