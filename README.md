@@ -39,9 +39,9 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamoellen&" alt="kamoellen" /></p>
   
   ### Certfications
-<p align="center">From Linkedin: 
-  <link href="https://www.linkedin.com/in/kamogelo-kganakga/"/>
-  </p>
+  <p align="center">From Linkedin: </p>
+  <p><link href="https://www.linkedin.com/in/kamogelo-kganakga/"</link></p>
+  
 
 
 ### Hobbies
