@@ -43,7 +43,7 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
   ### Certfications
   <a align="right" alt="cert" width="400" src="https://www.linkedin.com/in/kamogelo-kganakga">
   
- <p align="center"> -From Linkedin **https://www.linkedin.com/in/kamogelo-kganakga** </p>
+ <p align="center"> From Linkedin https://www.linkedin.com/in/kamogelo-kganakga </p>
  
   
   
