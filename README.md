@@ -13,7 +13,7 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 **Deployment platforms**  such as GitHub pages Netlify.
 
 # 💫 About Me:
-sparkling_heart I’m currently working on building an API with C++<br><br>seedling I’m currently learning API<br><br>sparkling_heart I’m looking to collaborate on Web Development<br><br>seedling How to reach me kamoellenkganakga@gmail.com<br><br>sparkling_heart Fun fact I am an artist<br><br>-seedling Linkedin https://www.linkedin.com/in/kamogelo-kganakga<br><br>Connect with me: kamoellenkganakga@gmail.com
+I’m currently working on building an API with C++<br><br>’m currently learning API<br><br>I’m looking to collaborate on Web Development<br><br>How to reach me kamoellenkganakga@gmail.com<br><br>Fun fact I am an artist<br><br>-Linkedin https://www.linkedin.com/in/kamogelo-kganakga<br><br>Connect with me: kamoellenkganakga@gmail.com
 
 
 # 💻 Tech Stack:
