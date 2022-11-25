@@ -25,6 +25,8 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 
 - ✨ Fun fact **I am an artist**
   
+ -Linkedin **https://www.linkedin.com/in/kamogelo-kganakga**
+  
 
 
 <h3 align="left">Connect with me: kamoellenkganakga@gmail.com</h3>
