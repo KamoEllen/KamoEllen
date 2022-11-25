@@ -5,16 +5,10 @@
 <h3 align="center">__________A passionate full-stack developer from South Africa________
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/AcxzWfX.gif">
   
-  
-
 <h4 align="center"> Full-Stack Developer | C++ Developer |JavaScript Developer | React/Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  <br>
 Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Javascript, DOM, jQuery, Bootstrap, JSON, AXIOS, NPM, NoSQL databases, Python, NodeJS, Canva, Object-Orientated Programming,Scratch , WIX,Figma, Gimp, Microsoft,Linux.
-
-  # 💫 About Me:
-sparkling_heart I’m currently working on building an API with C++<br><br>seedling I’m currently learning API<br><br>sparkling_heart I’m looking to collaborate on Web Development<br><br>seedling How to reach me kamoellenkganakga@gmail.com<br><br>sparkling_heart Fun fact I am an artist<br><br>-seedling Linkedin https://www.linkedin.com/in/kamogelo-kganakga<br><br>Connect with me: kamoellenkganakga@gmail.com
-
 
 **Deployment platforms**  such as GitHub pages Netlify.
 
@@ -33,6 +27,6 @@ sparkling_heart I’m currently working on building an API with C++<br><br>seedl
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KamoEllen) 
 
 
-### Hobbies
+## 💫 Hobbies
 <p align="center">Yoga |Dance | Sing | Jogging | Rock climbing | Boxing </p>
 <p align="center">Drawing | Listening to documentary| Reading </p>
