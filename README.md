@@ -2,18 +2,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #pink" align=center>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73F3F&background=FF285264&width=435&lines=My+name+is+Kamogelo.+Web+Developer+with+2+year+experience.Recent+project-Whatsapp0.1" alt="Typing SVG" /></a>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-</div>
-
-### Welcome  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73F3F&background=FEFFFE00&width=435&lines=My+name+is+Kamogelo.+Web+Developer.;Recent+project%3A+Whatsapp0.1;Welcome+%3A)+That's+what+my+name+means!!" alt="Typing SVG" /></a>
 
 <div style=" font-size: medium; color: #447ff7" align=center>
 
