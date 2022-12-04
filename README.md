@@ -2,8 +2,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #pink" align=center>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=pink&background=pink&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Kamogelo+Kganakga+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Web+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+South+Africa+%F0%9F%87%AE%F0%9F%87%B3;I+have+2%2B+years+of+experience+%F0%9F%93%88;In+building+%E2%9A%99%EF%B8%8F" alt="KAMOGELO" width="650" height="55">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73F3F&background=FF285264&width=435&lines=My+name+is+Kamogelo.+Web+Developer+with+2+year+experience.Recent+project-Whatsapp0.1" alt="Typing SVG" /></a>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
