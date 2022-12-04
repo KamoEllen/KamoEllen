@@ -8,7 +8,7 @@
 
 <h1 align="center">__________I CODE DAILY__________</h1>
 <h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
-<img align="right" alt="Coding"  src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ameba.com.uy%2Fen%2F&psig=AOvVaw1vM134A11r1nfs8esoXfTu&ust=1670275489715000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj2job24PsCFQAAAAAdAAAAABAi](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)">
+<img align="right" alt="Coding"  src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
   
      "https://i.imgur.com/AcxzWfX.gif" width="400"
   
