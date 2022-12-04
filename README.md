@@ -69,5 +69,5 @@ I’m currently working on building an API with C++<br><br>I’m currently learn
 
 
 ## Hobbies
-<p align="center">Yoga |Dance | Sing | Jogging | Rock climbing | Boxing </p>
-<p align="center">Drawing | Listening to documentary| Reading </p>
+<p align="center" color: #red"> Yoga |Dance | Sing | Jogging | Rock climbing | Boxing </p>
+<p align="center" color: #red"> Drawing | Listening to documentary| Reading </p>
