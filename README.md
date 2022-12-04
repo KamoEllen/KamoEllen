@@ -8,10 +8,9 @@
 
 <h1 align="center">__________I CODE DAILY__________</h1>
 <h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
-<img align="right" alt="Coding"  src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
+<img align="right" alt="Coding" width="400" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
   
-     "https://i.imgur.com/AcxzWfX.gif" width="400"
-  
+     
 <h4 align="center"> Full-Stack Developer | C++ Developer |JavaScript Developer | React/Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  
