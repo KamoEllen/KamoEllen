@@ -18,11 +18,11 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 
 **Deployment platforms**  such as GitHub pages Netlify.
 
-# 💫 About Me:
+# About Me:
 I’m currently working on building an API with C++<br><br>I’m currently learning API<br><br>I’m looking to collaborate on Web Development<br><br>How to reach me kamoellenkganakga@gmail.com<br><br>Fun fact I am an artist<br><br>Linkedin https://www.linkedin.com/in/kamogelo-kganakga<br><br>Connect with me: kamoellenkganakga@gmail.com
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=red) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=red) 
@@ -58,15 +58,15 @@ I’m currently working on building an API with C++<br><br>I’m currently learn
 ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=red) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=red)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KamoEllen&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
+  ## You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KamoEllen) 
 
 
-## 💫 Hobbies
+## Hobbies
 <p align="center">Yoga |Dance | Sing | Jogging | Rock climbing | Boxing </p>
 <p align="center">Drawing | Listening to documentary| Reading </p>
