@@ -4,11 +4,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73F3F&background=FEFFFE00&width=435&lines=My+name+is+Kamogelo.+Web+Developer.;Recent+project%3A+Whatsapp0.1;Welcome+%3A)+That's+what+my+name+means!!" alt="Typing SVG" /></a>
 
-<div style=" font-size: medium; color: #447ff7" align=center>
+<div style=" font-size: medium; color: #red" align=center>
 
 <h1 align="center">__________I CODE DAILY__________</h1>
 <h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
-//<h3 align="center">__________A passionate full-stack developer from South Africa________
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/AcxzWfX.gif">
   
 <h4 align="center"> Full-Stack Developer | C++ Developer |JavaScript Developer | React/Web Developer | Designer   <br> </h4>
