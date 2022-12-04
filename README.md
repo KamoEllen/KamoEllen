@@ -1,5 +1,7 @@
 ### Welcome  
 
+<div style=" font-size: medium; color: #447ff7" align=center>
+
 <h1 align="center">Hi 👋, I'm KamoEllen 👋</h1>
 <h1 align="center"> Welcome to my GitHub 💖 <br></h1> 
 <h3 align="center">__________A passionate full-stack developer from South Africa________
