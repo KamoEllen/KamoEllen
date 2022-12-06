@@ -74,6 +74,6 @@ I’m currently working on building an API with C++<br><br>I’m currently learn
   
   ------
 ##### Since 2022:
-<img src="https://komarev.com/ghpvc/?username=kamoellen-atg&color=blueviolet&style=flat">
+<img src="https://komarev.com/ghpvc/?username=kamoellen-atg&color=blackviolet&style=flat">
 
 
