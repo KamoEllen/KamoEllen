@@ -6,7 +6,7 @@
 
 <div style=" font-size: medium; color: #red" align=center>
 
-<h1 align="center">__________I CODE DAILY__________</h1>
+<h1 align="center">__________I CODE DAILY.I Love Research__________</h1>
 <h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
 <img align="right" alt="Coding" width="400" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
   
