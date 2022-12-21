@@ -1,6 +1,6 @@
 
 
-<img src="https://user-images.githubusercontent.com/107460745/202638934-cd5aab8f-80dd-4a5d-8d65-08a43a4f5ea4.gif" width="100%" height='300' />
+<!--<img src="https://.gif" width="100%" height='300' /> -->
 
 <h1 align="center">Hi 👋, KamoEllen from South Africa</h1>
 - 📄 My <a href="https://drive.google.com/file/d/1hDfJLp-qLVxQHJFq16I3Yvr5mkE8qVaD/view?usp=sharing">Resume</a> 📄
