@@ -9,17 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
 </a>
  </p>
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73F3F&background=FEFFFE00&width=435&lines=My+name+is+Kamogelo.+Web+Developer.;Recent+project%3A+Whatsapp0.1;Welcome+%3A)+That's+what+my+name+means!!" alt="Typing SVG" /></a>
-
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/> 
-  🧑🏻‍🏻‍🎓 <b>I Love ResearchL </b>🧑🏻‍🏻‍🎓
-
-<h1 align="center">__________I CODE DAILY.__________</h1>
-<h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
-
-<br></br>
-///
 
 <h1 align="center">__________I CODE DAILY.I Love Research__________</h1>
 <h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
