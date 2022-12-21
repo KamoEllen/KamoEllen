@@ -83,16 +83,16 @@ portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
 
  
 <hr/>
+<!--
 <h2 align="left">📊 My Github Stats</h2>
 
 
 <p align="left" border="1px solid black"><img alt="kamo"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><img  src="https://github-readme-stats.vercel.app/api?username=KamoEllen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="KamoEllen" />
 </p>
-
-<br></br>
+-->
 # GitHub Stats:
 
-<p align="left" border="1px solid black"><img alt="kamo"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"
+<p align="left" border="1px solid black">
 ![](https://github-readme-stats.vercel.app/api?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KamoEllen&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -107,9 +107,6 @@ portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  </p>
 
-<p align="center"><code> 2022 | KamoEllen j </code></p>
-
-///
 <!--
 # Tech Stack:
 
@@ -152,15 +149,21 @@ portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KamoEllen&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-  ## You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KamoEllen) 
+----------------------
+## You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KamoEllen) 
 
-
+----------------------
 ## Hobbies
 <p align="center" color: #red"> Yoga |Dance | Sing | Jogging | Rock climbing | Boxing </p>
 <p align="center" color: #red"> Drawing | Listening to documentary| Reading </p>
-  
-  ------
+
+----------------------
 ##### Since 2022:
 <img src="https://komarev.com/ghpvc/?username=kamoellen-atg&color=blueviolet&style=flat">
+
+----------------------
+<p align="center"><code> 2022 | KamoEllen j </code></p>
+
+
 
