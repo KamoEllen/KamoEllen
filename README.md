@@ -19,6 +19,26 @@
 <h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
 
 <br></br>
+///
+
+<h1 align="center">__________I CODE DAILY.I Love Research__________</h1>
+<h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
+<img align="right" alt="Coding" width="400" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
+  
+     
+<h4 align="center"> Full-Stack Developer | C++ Developer |JavaScript Developer | React/Web Developer | Designer   <br> </h4>
+
+**Knowledge of:**  
+ </br>
+Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Javascript, DOM, jQuery, Bootstrap, JSON, AXIOS, NPM, NoSQL databases, Python, NodeJS, Canva, Object-Orientated Programming,Scratch , WIX,Figma, Gimp, Microsoft,Linux.
+
+**Deployment platforms**  such as GitHub pages Netlify.
+
+# About Me:
+I’m currently working on building an API with C++<br><br>I’m currently learning API<br><br>I’m looking to collaborate on Web Development<br><br>How to reach me kamoellenkganakga@gmail.com<br><br>Fun fact I am an artist<br><br>Linkedin https://www.linkedin.com/in/kamogelo-kganakga<br><br>Connect with me: kamoellenkganakga@gmail.com
+portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
+
+///
 <br></br>
 <hr/>
 
