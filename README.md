@@ -84,14 +84,20 @@ portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
  
 <hr/>
 <h2 align="left">📊 My Github Stats</h2>
-https://github.com/KamoEllen
 
-<p align="left" border="1px solid black"><img alt="Preeti Raj Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><img  src="https://github-readme-stats.vercel.app/api?username=KamoEllen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="KamoEllen" />
+
+<p align="left" border="1px solid black"><img alt="kamo"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><img  src="https://github-readme-stats.vercel.app/api?username=KamoEllen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="KamoEllen" />
 </p>
 
 <br></br>
-<br></br>
-<br></br>
+# GitHub Stats:
+
+<p align="left" border="1px solid black"><img alt="kamo"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"
+![](https://github-readme-stats.vercel.app/api?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KamoEllen&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
 <br></br>
 <img src="https://github-profile-trophy.vercel.app/?username=KamoEllen&theme=algolia" align="center" alt="preetiraj" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamoEllen&theme=2077" width="100%" />
