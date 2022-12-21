@@ -98,7 +98,7 @@ https://github.com/KamoEllen
   
 </p>
 
-<p align="center"><code> © 2022 | Preeti Raj </code></p>
+<p align="center"><code> © 2022 | KamoEllen j </code></p>
 
 ///
 <p align="center"><img src="animation.gif" width="35%"></p>
