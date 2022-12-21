@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/107460745/202638934-cd5aab8f-80dd-4a5d-8d65-08a43a4f5ea4.gif" width="100%" height='300' />
 
 <h1 align="center">Hi 👋, KamoEllen from South Africa</h1>
-<h3 align="center">A Passionate Full Stack Web developer From South Africa</h3>
+- 📄 My <a href="https://drive.google.com/file/d/1hDfJLp-qLVxQHJFq16I3Yvr5mkE8qVaD/view?usp=sharing">Resume</a> 📄
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
@@ -180,5 +180,4 @@ portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
   ------
 ##### Since 2022:
 <img src="https://komarev.com/ghpvc/?username=kamoellen-atg&color=blueviolet&style=flat">
-
 
