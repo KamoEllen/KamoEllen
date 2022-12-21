@@ -104,30 +104,7 @@ https://github.com/KamoEllen
 <p align="center"><code> 2022 | KamoEllen j </code></p>
 
 ///
-<p align="center"><img src="animation.gif" width="35%"></p>
-<div style=" font-size: medium; color: #pink" align=center>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73F3F&background=FEFFFE00&width=435&lines=My+name+is+Kamogelo.+Web+Developer.;Recent+project%3A+Whatsapp0.1;Welcome+%3A)+That's+what+my+name+means!!" alt="Typing SVG" /></a>
-
-<div style=" font-size: medium; color: #red" align=center>
-
-<h1 align="center">__________I CODE DAILY.I Love Research__________</h1>
-<h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
-<img align="right" alt="Coding" width="400" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
-  
-     
-<h4 align="center"> Full-Stack Developer | C++ Developer |JavaScript Developer | React/Web Developer | Designer   <br> </h4>
-
-**Knowledge of:**  
- </br>
-Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Javascript, DOM, jQuery, Bootstrap, JSON, AXIOS, NPM, NoSQL databases, Python, NodeJS, Canva, Object-Orientated Programming,Scratch , WIX,Figma, Gimp, Microsoft,Linux.
-
-**Deployment platforms**  such as GitHub pages Netlify.
-
-# About Me:
-I’m currently working on building an API with C++<br><br>I’m currently learning API<br><br>I’m looking to collaborate on Web Development<br><br>How to reach me kamoellenkganakga@gmail.com<br><br>Fun fact I am an artist<br><br>Linkedin https://www.linkedin.com/in/kamogelo-kganakga<br><br>Connect with me: kamoellenkganakga@gmail.com
-portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
-
+<!--
 # Tech Stack:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=red) 
@@ -163,7 +140,7 @@ portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=red) 	
 ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=red) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=red)
-
+-->
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KamoEllen&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KamoEllen&theme=bear&hide_border=false)<br/>
