@@ -76,25 +76,15 @@ https://github.com/KamoEllen
 
 <p align="left" border="1px solid black"><img alt="Preeti Raj Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><img  src="https://github-readme-stats.vercel.app/api?username=KamoEllen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="KamoEllen" />
 </p>
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<img src="https://github-profile-trophy.vercel.app/?username=KamoEllen&theme=algolia" align="center" alt="preetiraj" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamoEllen&theme=2077" width="100%" />
 <hr/>
-<p align="left" border="1px solid black"><img alt="Preeti Raj Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetiraj3697&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><img  src="https://github-readme-stats.vercel.app/api?username=preetiraj3697&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="preetiraj3697" />
-</p>
-<p align="left">
-<a href="https://github.com/Preetiraj3697/30dayofJavascript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=tokyonight" />
-</a>
-<a href="https://github.com/Preetiraj3697/sheela-commerce-webiste-with-reactjs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=sheela-commerce-webiste-with-reactjs&theme=tokyonight" />
-</a>
-</p>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<img src="https://github-profile-trophy.vercel.app/?username=Preetiraj3697&theme=algolia" align="center" alt="preetiraj" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preetiraj3697&theme=2077" width="100%" />
-<hr/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Preetiraj3697&theme=react-dark&custom_title=Preeti%20Raj's%20contribution%20Graph&hide_border=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KamoEllen&theme=react-dark&custom_title=KamoEllen's%20contribution%20Graph&hide_border=true" />
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  </p>
@@ -103,8 +93,8 @@ https://github.com/KamoEllen
     <h2 align="center">Views Followers and Stars</h2>
 </samp>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=preetiraj3697&label=Profile%20views&color=0e75b6&style=flat" alt="preetiraj3697" /> <a href="https://github.com/Preetiraj3697?tab=followers"><img src="https://img.shields.io/github/followers/Preetiraj3697?label=Followers&style=social" alt="GitHub Badge">
- <a href="https://github.com/Preetiraj3697?tab=stars"><img src="https://img.shields.io/github/stars/Preetiraj3697?label=stars&style=social" alt="GitHub Badge">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=preetiraj3697&label=Profile%20views&color=0e75b6&style=flat" alt="preetiraj3697" /> <a href="https://github.com/KamoEllen?tab=followers"><img src="https://img.shields.io/github/followers/KamoEllen?label=Followers&style=social" alt="GitHub Badge">
+ <a href="https://github.com/KamoEllen?tab=stars"><img src="https://img.shields.io/github/stars/KamoEllen?label=stars&style=social" alt="GitHub Badge">
   
 </p>
 
