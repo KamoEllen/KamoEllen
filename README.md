@@ -9,6 +9,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
 </a>
  </p>
+ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73F3F&background=FEFFFE00&width=435&lines=My+name+is+Kamogelo.+Web+Developer.;Recent+project%3A+Whatsapp0.1;Welcome+%3A)+That's+what+my+name+means!!" alt="Typing SVG" /></a>
+
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/> 
   🧑🏻‍🏻‍🎓 <b>I Love ResearchL </b>🧑🏻‍🏻‍🎓
 
@@ -89,16 +92,7 @@ https://github.com/KamoEllen
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  </p>
 
-<samp>
-    <h2 align="center">Views Followers and Stars</h2>
-</samp>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=preetiraj3697&label=Profile%20views&color=0e75b6&style=flat" alt="preetiraj3697" /> <a href="https://github.com/KamoEllen?tab=followers"><img src="https://img.shields.io/github/followers/KamoEllen?label=Followers&style=social" alt="GitHub Badge">
- <a href="https://github.com/KamoEllen?tab=stars"><img src="https://img.shields.io/github/stars/KamoEllen?label=stars&style=social" alt="GitHub Badge">
-  
-</p>
-
-<p align="center"><code> © 2022 | KamoEllen j </code></p>
+<p align="center"><code> 2022 | KamoEllen j </code></p>
 
 ///
 <p align="center"><img src="animation.gif" width="35%"></p>
