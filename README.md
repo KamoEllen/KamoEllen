@@ -3,7 +3,7 @@
 <!--<img src="https://.gif" width="100%" height='300' /> -->
 
 <h1 align="center">Hi 👋, KamoEllen from South Africa</h1>
-- 📄 My <a href="https://drive.google.com/file/d/1hDfJLp-qLVxQHJFq16I3Yvr5mkE8qVaD/view?usp=sharing">Resume</a> 📄
+- 📄 My <a href="[https://drive.google.com/file/d/1hDfJLp-qLVxQHJFq16I3Yvr5mkE8qVaD/view?usp=sharing](https://drive.google.com/file/d/1JVvjF4KUEcRCAVl4sE6aKJtLwIJnCiyH/view?usp=sharing)">Resume</a> 📄
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
