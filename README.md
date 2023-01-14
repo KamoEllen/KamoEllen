@@ -8,6 +8,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
 </a>
  </p>
+ 
+ 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kamoellen/count.svg" />
+</p>
 
 <h1 align="center">__________I CODE DAILY.I Love Research__________</h1>
 <h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
