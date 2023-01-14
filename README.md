@@ -1,10 +1,4 @@
 
-
-<!--<img src="https://.gif" width="100%" height='300' /> -->
-
-<h1 align="center">Hi 👋, KamoEllen from South Africa</h1>
-- 📄 My <a href="[https://drive.google.com/file/d/1hDfJLp-qLVxQHJFq16I3Yvr5mkE8qVaD/view?usp=sharing](https://drive.google.com/file/d/1JVvjF4KUEcRCAVl4sE6aKJtLwIJnCiyH/view?usp=sharing)">Resume</a> 📄
-
 <h1 align="center">Hi 👋, KamoEllen from South Africa</h1>
 - 📄 My <a href="https://drive.google.com/file/d/1JVvjF4KUEcRCAVl4sE6aKJtLwIJnCiyH/view?usp=sharing">Resume</a> 📄
 
