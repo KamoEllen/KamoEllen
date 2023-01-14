@@ -10,8 +10,7 @@
  </p>
  
  
- [![KamoEllen's github stats](https://github-readme-stats.vercel.app/api?username=KamoEllen&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
+ [![KamoEllen's github stats] https://github-readme-stats.vercel.app/api?username=KamoEllen&show_icons=true&theme=default https://github.com/anuraghazra/github-readme-stats 
 
 <h1 align="center">__________I CODE DAILY.I Love Research__________</h1>
 <h1 align="center">__________ C++ IS MY FAVOURITE LANGUAGE__________<br></h1> 
