@@ -24,7 +24,7 @@ Git, Github,C++, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, 
 
 # About Me:
 I’m currently working on building an API with C++<br><br>I’m currently learning API<br><br>I’m looking to collaborate on Web Development<br><br>How to reach me kamoellenkganakga@gmail.com<br><br>Fun fact I am an artist<br><br>Linkedin https://www.linkedin.com/in/kamogelo-kganakga<br><br>Connect with me: kamoellenkganakga@gmail.com
-portfolio , code on github: https://preeminent-sopapillas-6a05aa.netlify.app/
+portfolio , code on github:(https://github.com/KamoEllen/portfolioo) web link => https://preeminent-sopapillas-6a05aa.netlify.app/
 
 
 <br></br>
