@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, KamoEllen from South Africa</h1>
-- 📄 My <a href="https://drive.google.com/file/d/1JVvjF4KUEcRCAVl4sE6aKJtLwIJnCiyH/view?usp=sharing">Resume</a> 📄
+- 📄 My <a href="https://docs.google.com/document/d/1ZBOE8OBPfpR-X3lSLbStQc4oQIKT0Nt48yhvsfTJzz4/edit?usp=sharing">Resume</a> 📄
 (currently learnig Sfml)
 
 <p align="center">
