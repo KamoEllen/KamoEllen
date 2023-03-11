@@ -58,43 +58,7 @@
 <p>
   My name is Kamogelo Ellen Kganakga, and I am a web developer based in Pretoria, South Africa. I have a passion for web development, and I am constantly striving to improve my skills and knowledge in the field. With an entrepreneurial mindset and strong attention to detail, I am deadline-driven and always looking to create innovative solutions for my clients.
 </p>
-<h3>Skills/Tools</h3>
-<ul>
-  <li>Maintenance and Repair</li>
-  <li>Analytical and Critical Thinking</li>
-  <li>UI improvements</li>
-  <li>Code debugging</li>
-  <li>Web Design</li>
-  <li>CSS</li>
-  <li>C++</li>
-  <li>Figma</li>
-  <li>Technical Support</li>
-  <li>Command-line interface (CLI)</li>
-  <li>Windows</li>
-  <li>Linux</li>
-  <li>SQL</li>
-  <li>JavaScript</li>
-  <li>Project Management</li>
-  <li>Typescript</li>
-  <li>Agile Workflow</li>
-  <li>UX Design</li>
-  <li>Git</li>
-  <li>HTML</li>
-  <li>Next.js</li>
-  <li>Github</li>
-  <li>Visual Studio Code</li>
-  <li>Vercel</li>
-  <li>Next.js</li>
-  <li>Node.js</li>
-  <li>Agile Methodologies</li>
-  <li>React</li>
-</ul>
-<h3>Projects</h3>
-<ul>
-  <li><a href="https://ornate-mousse-194f6f.netlify.app/">https://ornate-mousse-194f6f.netlify.app/</a></li>
-  <li><a href="https://bucolic-daffodil-90aaeb.netlify.app/">https://bucolic-daffodil-90aaeb.netlify.app/</a></li>
-  <li><a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a></li>
-</ul>
+
 <h3>Experience</h3>
 <p>
   As a Freelance Web Developer, I designed, implemented, and monitored web pages using React, React Router DOM, and Redux. I leverage my knowledge of JavaScript and back-end libraries to enhance my programming resources.
