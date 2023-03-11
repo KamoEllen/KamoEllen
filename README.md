@@ -1,12 +1,7 @@
 <!-- HTML code for Kamogelo Ellen Kganakga's Readme.md -->
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-     <style>
+   <style>
       /* font styles */
       body {
         font-family: Arial, sans-serif;
@@ -76,6 +71,11 @@
         margin-top: 0;
       }
     </style>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+    
 </head>
 <body>
   <h1>Kamogelo Ellen Kganakga</h1>
