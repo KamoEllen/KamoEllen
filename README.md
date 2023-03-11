@@ -6,6 +6,76 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
+     <style>
+      /* font styles */
+      body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+      h1 {
+        font-size: 36px;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      h2 {
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: 0;
+      }
+      h3 {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      p {
+        margin-top: 0;
+      }
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+      /* links */
+      a {
+        color: #0072C6;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      /* layout */
+      body {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      /* projects */
+      ul li {
+        margin-bottom: 5px;
+      }
+      ul li a {
+        font-weight: bold;
+      }
+      /* skills */
+      ul {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        grid-gap: 10px;
+        margin-bottom: 20px;
+      }
+      /* experience */
+      .experience {
+        margin-bottom: 20px;
+      }
+      .experience h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+      }
+      .experience p {
+        margin-top: 0;
+      }
+    </style>
 </head>
 <body>
   <h1>Kamogelo Ellen Kganakga</h1>
