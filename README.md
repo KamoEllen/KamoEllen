@@ -80,6 +80,13 @@
     /
     Project Management</a></li>
 <p>This credential signifies my competence in project planning, budgeting, risk management, and stakeholder communication. By earning this certification, I am well-prepared to lead complex projects and deliver successful outcomes. Additionally, my Google Project Management certification underscores my dedication to ongoing education and professional growth.</p>
+  
+   <li>FreeCodeCamp   </li>
+  <p>
+   I learned fundamental concepts related to programming, algorithm design, and data structures using the JavaScript programming language. The certification course covers various topics, including variables, data types, operators, functions, loops, conditional statements, arrays, objects, recursion, sorting algorithms, and searching algorithms.
+  </p>
+  <li>Coursera / Google | <a href="https://coursera.org/share/cf1eb8c385a11a29c3960f38b119e916">Javascript Algorithms And Data Structures</a></li>
+  
 </ul>
 <h4>Languages</h4>
 <ul>
