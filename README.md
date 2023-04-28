@@ -9,7 +9,7 @@
     
 </head>
 <body>
-  <h1>Messy Github<i>sick at the moment</i> </h1>
+  <h1>Messy Github <i>sick at the moment</i> </h1>
   <h2>Web Developer</h2>
   <p>Pretoria, South Africa 0008<br>
   0691035501<br>
