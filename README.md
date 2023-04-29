@@ -34,7 +34,7 @@
     <li>SQL</li>
     <li>JavaScript</li>
     <li>Project Management</li>
-    <li>Typescript</li>
+    <li>Python</li>
     <li>Agile Workflow</li>
     <li>UX Design</li>
     <li>Git</li>
