@@ -12,7 +12,6 @@
   <h1>Messy Github <i>sick at the moment</i> </h1>
   <h2>Web Developer</h2>
   <p>Pretoria, South Africa 0008<br>
-  0691035501<br>
   <a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a><br>
   <a href="https://www.linkedin.com/in/kamogelokganakga">https://www.linkedin.com/in/kamogelokganakga</a><br>
   kamoellenkganakga@gmail.com</p>
@@ -39,12 +38,6 @@ I have experience in Maintenance and Repair, Analytical and Critical Thinking, U
     </ul>
   </li>
 </ul>
-
-  /
-  <h3>About Me</h3>
-<p>
-  My name is Kamogelo Ellen Kganakga, and I am a web developer based in Pretoria, South Africa. I have a passion for web development, and I am constantly striving to improve my skills and knowledge in the field. With an entrepreneurial mindset and strong attention to detail, I am deadline-driven and always looking to create innovative solutions for my clients.
-</p>
 
 <h3>Experience</h3>
 <p>
