@@ -45,10 +45,15 @@ I have experience in Maintenance and Repair, Analytical and Critical Thinking, U
 <h3>Education</h3>
 <ul>
 - Christian Progressive College | Pretoria, South Africa | Computer Science And Programming
+  
 - Coursera / Google | Google IT Support Specialization
+  
 - Coursera / Google | Project Management
+  
 - FreeCodeCamp | Javascript Algorithms And Data Structures
+  
 - FreeCodeCamp | Responsive Web Design
+  
 - Google | Google Analytics Individual Qualification
 
 These are the courses and certifications I have completed to develop my skills in web development, IT support, project management, and data analytics. Through these programs, I have gained a comprehensive understanding of programming languages, project planning and execution, and data analysis tools.
