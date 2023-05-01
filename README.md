@@ -1,17 +1,12 @@
-<!-- HTML code for Kamogelo Ellen Kganakga's Readme.md -->
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-    
 </head>
 <body>
   <h1>Messy Github <i>sick at the moment</i> </h1>
   <h2>Web Developer</h2>
-  <p>Pretoria, South Africa 0008<br>
   <a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a><br>
   kamoellenkganakga@gmail.com</p>
    <h3>Skills/Tools</h3>
@@ -34,7 +29,6 @@ I have experience in Maintenance and Repair, Analytical and Critical Thinking, U
     </ul>
   </li>
 </ul>
-
 <h3>Experience</h3>
 <p>
   As a Freelance Web Developer, I designed, implemented, and monitored web pages using React, React Router DOM, and Redux. I leverage my knowledge of JavaScript and back-end libraries to enhance my programming resources.
@@ -57,7 +51,6 @@ I have experience in Maintenance and Repair, Analytical and Critical Thinking, U
 - Google | Google Analytics Individual Qualification
 
 These are the courses and certifications I have completed to develop my skills in web development, IT support, project management, and data analytics. Through these programs, I have gained a comprehensive understanding of programming languages, project planning and execution, and data analysis tools.
- 
 </ul>
 <h4>Languages</h4>
 <ul>
