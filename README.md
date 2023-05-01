@@ -41,11 +41,7 @@
     <li>HTML</li>
     <li>Next.js</li>
     <li>Github</li>
-    <li>Visual Studio Code</li>
-    <li>Vercel</li>
-    <li>Node.js</li>
-    <li>Agile methodologies</li>
-    <li>React</li>
+    <li>Visual Studio Code</li><li>Vercel</li><li>Node.js</li><li>Agile methodologies</li><li>React</li>
   </ul>
   <h3>Projects</h3>
 <ul>
