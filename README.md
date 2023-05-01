@@ -17,32 +17,43 @@
   <a href="https://www.linkedin.com/in/kamogelokganakga">https://www.linkedin.com/in/kamogelokganakga</a><br>
   kamoellenkganakga@gmail.com</p>
   <p>Passionate, deadline-driven IT professional with an entrepreneurial mindset and strong attention to detail. A team player with strong analytical skills who is quick to learn and adaptable to new technologies. Skilled in English and Afrikaans, with certifications from reputable online learning platforms. Skilled and creative developer committed to ongoing learning and personal growth.</p>
-  <h3>Skills/Tools</h3>
-  <ul>
-    <li>Maintenance and Repair</li>
-    <li>Analytical and Critical Thinking</li>
-    <li>UI improvements</li>
-    <li>Code debugging</li>
-    <li>Web Design</li>
-    <li>CSS</li>
-    <li>C++</li>
-    <li>Figma</li>
-    <li>Technical Support</li>
-    <li>Command-line interface (CLI)</li>
-    <li>Windows</li>
-    <li>Linux</li>
-    <li>SQL</li>
-    <li>JavaScript</li>
-    <li>Project Management</li>
-    <li>Python</li>
-    <li>Agile Workflow</li>
-    <li>UX Design</li>
-    <li>Git</li>
-    <li>HTML</li>
-    <li>Next.js</li>
-    <li>Github</li>
-    <li>Visual Studio Code</li><li>Vercel</li><li>Node.js</li><li>Agile methodologies</li><li>React</li>
-  </ul>
+  
+   <h3>Skills/Tools</h3>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 5px;">
+    Maintenance and Repair<br>
+    Analytical and Critical Thinking<br>
+    UI improvements<br>
+    Code debugging<br>
+    Web Design<br>
+    CSS<br>
+    C++<br>
+    Figma<br>
+    Technical Support<br>
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    Command-line interface (CLI)<br>
+    Windows<br>
+    Linux<br>
+    SQL<br>
+    JavaScript<br>
+    Project Management<br>
+    Python<br>
+    Agile Workflow<br>
+    UX Design<br>
+    Git<br>
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    HTML<br>
+    Next.js<br>
+    Github<br>
+    Visual Studio Code<br>
+    Vercel<br>
+    Node.js<br>
+    Agile methodologies<br>
+    React<br>
+  </div>
+</div> 
   <h3>Projects</h3>
 <ul>
   <li>Programming
