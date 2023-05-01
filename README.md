@@ -20,39 +20,8 @@
   
    <h3>Skills/Tools</h3>
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 5px;">
-    Maintenance and Repair<br>
-    Analytical and Critical Thinking<br>
-    UI improvements<br>
-    Code debugging<br>
-    Web Design<br>
-    CSS<br>
-    C++<br>
-    Figma<br>
-    Technical Support<br>
-  </div>
-  <div style="flex: 1; padding: 5px;">
-    Command-line interface (CLI)<br>
-    Windows<br>
-    Linux<br>
-    SQL<br>
-    JavaScript<br>
-    Project Management<br>
-    Python<br>
-    Agile Workflow<br>
-    UX Design<br>
-    Git<br>
-  </div>
-  <div style="flex: 1; padding: 5px;">
-    HTML<br>
-    Next.js<br>
-    Github<br>
-    Visual Studio Code<br>
-    Vercel<br>
-    Node.js<br>
-    Agile methodologies<br>
-    React<br>
-  </div>
+I have experience in Maintenance and Repair, Analytical and Critical Thinking, UI improvements, Code debugging, Web Design, CSS, C++, Figma, Technical Support, Command-line interface (CLI), Windows, Linux, SQL, JavaScript, Project Management, Python, Agile Workflow, UX Design, Git, HTML, Next.js, Github, Visual Studio Code, Vercel, Node.js, Agile methodologies, and React.
+
 </div> 
   <h3>Projects</h3>
 <ul>
