@@ -48,11 +48,17 @@
     <li>React</li>
   </ul>
   <h3>Projects</h3>
+  Programmimg
   <ul>
     <li><a href="https://ornate-mousse-194f6f.netlify.app/">https://ornate-mousse-194f6f.netlify.app/</a></li>
     <li><a href="https://bucolic-daffodil-90aaeb.netlify.app/">https://bucolic-daffodil-90aaeb.netlify.app/</a></li>
     <li><a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a></li>
   </ul>
+  Data Science
+  [Marketing-Data-Report](https://github.com/KamoEllen/Marketing-Data-Report)
+
+  [Fraud-Detection-Report](https://github.com/KamoEllen/Fraud-Detection-Report)
+
   /
   <h3>About Me</h3>
 <p>
