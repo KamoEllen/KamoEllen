@@ -18,7 +18,7 @@ I have experience in Maintenance and Repair, Analytical and Critical Thinking, U
 Realized late that I have to have links for projects.I'll do that.Some have screenshots, Like the ChatGPT clone.
   <li>Programming
     <ul>
-     <li><a href=" https://github.com/KamoEllen/ChatGPT-clone-part-2-js-ai-">ChatGPT-clone-reactjs</a></li>
+     <li><a href="https://github.com/KamoEllen/ChatGPT-clone-part-2-js-ai-">ChatGPT-clone-reactjs</a></li>
       <li><a href="https://ornate-mousse-194f6f.netlify.app/">https://ornate-mousse-194f6f.netlify.app/</a></li>
       <li><a href="https://bucolic-daffodil-90aaeb.netlify.app/">https://bucolic-daffodil-90aaeb.netlify.app/</a></li>
       <li><a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a></li>
