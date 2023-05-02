@@ -40,6 +40,7 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
 <h3>Education</h3>
 <ul>
 - Christian Progressive College | Pretoria, South Africa | Computer Science And Programming
+- Tshwane South College | Pretoria, South Africa | Civil Engineering
   
 - Coursera / Google | Google IT Support Specialization
   
