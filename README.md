@@ -5,16 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Messy Github <i>sick at the moment</i> </h1>
+  <h1>Messy Github <i>progress is messy</i> </h1>
   <h2>Web Developer</h2>
   <a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a><br>
   kamoellenkganakga@gmail.com</p>
    <h3>Skills/Tools</h3>
 <div>
-I have experience in Maintenance and Repair, Analytical and Critical Thinking, UI improvements, Code debugging, Web Design, CSS, C++, Figma, Technical Support, Command-line interface (CLI), Windows, Linux, SQL, JavaScript, Project Management, Python, Agile Workflow, UX Design, Git, HTML, Next.js, Github, Visual Studio Code, Vercel, Node.js, Agile methodologies, and React.
+I have experience in Maintenance and Repair, Analytical and Critical Thinking, UI improvements, Code debugging, Web Design, CSS, C++, Figma, Technical Support, Command-line interface (CLI), Windows, Linux,Ubuntu, JavaScript, Project Management, Python, Agile Workflow, UX Design, Git, HTML, Next.js, Github, Visual Studio Code, Vercel, Node.js, Agile methodologies, and React.
 </div> 
   <h3>Projects</h3>
 <ul>
+Realized late that I have to have links for projects.I'll do that.Some have screenshots, Like the ChatGPT clone.
   <li>Programming
     <ul>
       <li><a href="https://ornate-mousse-194f6f.netlify.app/">https://ornate-mousse-194f6f.netlify.app/</a></li>
@@ -50,7 +51,7 @@ I have experience in Maintenance and Repair, Analytical and Critical Thinking, U
   
 - Google | Google Analytics Individual Qualification
 
-These are the courses and certifications I have completed to develop my skills in web development, IT support, project management, and data analytics. Through these programs, I have gained a comprehensive understanding of programming languages, project planning and execution, and data analysis tools.
+These are the courses and certifications I have completed to develop my skills in web development, IT support, project management, and data analytics. Through these programs, I have gained a comprehensive understanding of programming languages, project planning and execution, and data analysis tools.Fav tool is Pandas.
 </ul>
 <h4>Languages</h4>
 <ul>
