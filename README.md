@@ -28,7 +28,7 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
     <ul>
      <li><a href="https://github.com/KamoEllen/ChatGPT-clone-part-2-js-ai-">ChatGPT-clone-Reactjs</a></li>
       <li><a href="https://ornate-mousse-194f6f.netlify.app/">Blog-Reactjs</a></li>
-      <li><a href="https://bucolic-daffodil-90aaeb.netlify.app/">https://bucolic-daffodil-90aaeb.netlify.app/</a></li>
+      <li><a href="https://bucolic-daffodil-90aaeb.netlify.app/">Tik-Tac-Toe-Reactjs</a></li>
       <li><a href="https://tinyurl.com/kamoellenkganakga">Portfolio</a></li>
        <li><a href="https://github.com/KamoEllen/netflix-html-css">Netflix-Html/Css-Clone</a></li>
     </ul>
