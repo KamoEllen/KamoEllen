@@ -13,9 +13,17 @@
 <div>
 I have experience in Maintenance and Repair, Analytical and Critical Thinking, UI improvements, Code debugging, Web Design, CSS, C++, Figma, Technical Support, Command-line interface (CLI), Windows, Linux,Ubuntu, JavaScript, Project Management, Python, Agile Workflow, UX Design, Git, HTML, Next.js, Github, Visual Studio Code, Vercel, Node.js, Agile methodologies, and React.
 </div> 
+  <div>
+  <h3>Languages:/h3>
+   <li>C++</li>
+   <li>Python</li>
+   <li>Html</li>
+   <li>JavaScript</li>
+  <li>java soon.</li>
+</div> 
   <h3>Projects</h3>
 <ul>
-Realized late that I have to have links for projects.I'll do that.Some have screenshots, Like the ChatGPT clone.
+Realized late that I have to have links for projects.I'll do that.Some have screenshots/videos, Like the ChatGPT clone & html/js websites & C++ projects.
   <li>Programming
     <ul>
      <li><a href="https://github.com/KamoEllen/ChatGPT-clone-part-2-js-ai-">ChatGPT-clone-reactjs</a></li>
