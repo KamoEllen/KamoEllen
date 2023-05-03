@@ -29,7 +29,8 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
      <li><a href="https://github.com/KamoEllen/ChatGPT-clone-part-2-js-ai-">ChatGPT-clone-reactjs</a></li>
       <li><a href="https://ornate-mousse-194f6f.netlify.app/">https://ornate-mousse-194f6f.netlify.app/</a></li>
       <li><a href="https://bucolic-daffodil-90aaeb.netlify.app/">https://bucolic-daffodil-90aaeb.netlify.app/</a></li>
-      <li><a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a></li>
+      <li><a href="https://tinyurl.com/kamoellenkganakga">Portfolio</a></li>
+       <li><a href="https://github.com/KamoEllen/netflix-html-css">Netflix-Html/Css-Clone</a></li>
     </ul>
   </li>
   <li>Data Science
