@@ -14,7 +14,7 @@
 I have experience in Maintenance and Repair, Analytical and Critical Thinking, UI improvements, Code debugging, Web Design, CSS, C++, Figma, Technical Support, Command-line interface (CLI), Windows, Linux,Ubuntu, JavaScript, Project Management, Python, Agile Workflow, UX Design, Git, HTML, Next.js, Github, Visual Studio Code, Vercel, Node.js, Agile methodologies, and React.
 </div> 
   <div>
-  <h3>Languages:/h3>
+  <h3>Languages:</h3>
    <li>C++</li>
    <li>Python</li>
    <li>Html</li>
