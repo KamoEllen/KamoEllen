@@ -40,6 +40,10 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
     </ul>
   </li>
 </ul>
+  <li>Figma</li>
+   <ul>
+  <li><a href="https://www.figma.com/proto/93X3VYg5IJeO4JdnbzFoSV/Portfolio?type=design&node-id=23-74&t=9WMcUTWjyvxogrH1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=23%3A71&mode=design">Portfolio</a></li>
+     </ul>
 <h3>Experience</h3>
 <p>
   As a Freelance Web Developer, I designed, implemented, and monitored web pages using React, React Router DOM, and Redux. I leverage my knowledge of JavaScript and back-end libraries to enhance my programming resources.
