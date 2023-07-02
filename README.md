@@ -43,6 +43,9 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
   <li>Figma</li>
    <ul>
   <li><a href="https://www.figma.com/proto/93X3VYg5IJeO4JdnbzFoSV/Portfolio?type=design&node-id=23-74&t=9WMcUTWjyvxogrH1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=23%3A71&mode=design">Portfolio</a></li>
+  <li>
+    <a href="https://www.figma.com/proto/taCA19v7OMHlRYZDCJ14Fc/SHOP?type=design&node-id=12-3261&t=wXW2ESAmRSZx8KC6-1&scaling=scale-down-width&page-id=0%3A1&mode=design">Fashion Online Store</a>
+  </li>
      </ul>
 <h3>Experience</h3>
 <p>
