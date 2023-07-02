@@ -45,6 +45,7 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
   <li><a href="https://www.figma.com/proto/93X3VYg5IJeO4JdnbzFoSV/Portfolio?type=design&node-id=23-74&t=9WMcUTWjyvxogrH1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=23%3A71&mode=design">Portfolio</a></li>
   <li>
     <a href="https://www.figma.com/proto/taCA19v7OMHlRYZDCJ14Fc/SHOP?type=design&node-id=12-3261&t=wXW2ESAmRSZx8KC6-1&scaling=scale-down-width&page-id=0%3A1&mode=design">Fashion Online Store</a>
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FtaCA19v7OMHlRYZDCJ14Fc%2FSHOP%3Ftype%3Ddesign%26node-id%3D12-3261%26t%3DD4euGthltULZNZMf-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26mode%3Ddesign" allowfullscreen></iframe>
   </li>
      </ul>
 <h3>Experience</h3>
