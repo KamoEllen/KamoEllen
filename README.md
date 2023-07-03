@@ -3,9 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .resume-button {
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+  </style>
 </head>
 <body>
-  [![Resume](https://docs.google.com/document/d/15OorzpZTJ90-YzdfiPBnQVNF6nhbnVFjfkPD3jeXwT0/edit?usp=sharing)
+  <a href="https://docs.google.com/document/d/15OorzpZTJ90-YzdfiPBnQVNF6nhbnVFjfkPD3jeXwT0/edit?usp=sharing" class="resume-button">Resume</a>
 
   <h2>Web Developer</h2>
   <a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a><br>
@@ -48,42 +59,4 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
     <a href="https://www.figma.com/proto/taCA19v7OMHlRYZDCJ14Fc/SHOP?type=design&node-id=12-3261&t=wXW2ESAmRSZx8KC6-1&scaling=scale-down-width&page-id=0%3A1&mode=design">Fashion Online Store</a>
   </li>
      <li>
-       <a href="https://www.figma.com/proto/emoa5fWGk1R3IxKpGn6EvG/Music-Player-Design?type=design&node-id=1-1496&t=OVmgLjdfJDxtVtoZ-1&scaling=contain&page-id=0%3A1&mode=design">Music Player Design</a>
-     </li>
-     <li>
-       <a href="https://www.figma.com/proto/CMEnLXLp6xUE7FA5atMaw5/Delicate-Delights-Brand-and-Identity?type=design&node-id=39-81&t=Ik2kFQwzsh5a0pOZ-1&scaling=contain&page-id=0%3A1&mode=design">Brand and Identity</a>
-     </li>
-     </ul>
-<h3>Experience</h3>
-<p>
-  As a Freelance Web Developer, I designed, implemented, and monitored web pages using React, React Router DOM, and Redux. I leverage my knowledge of JavaScript and back-end libraries to enhance my programming resources.
-</p>
-<p>
-  Hackathon , used Figma.
-</p>
-<h3>Education</h3>
-<ul>
-- Christian Progressive College | Pretoria, South Africa | Computer Science And Programming
-
-- Tshwane South College | Pretoria, South Africa | Civil Engineering
-  
-- Coursera / Google | Google IT Support Specialization
-  
-- Coursera / Google | Project Management
-  
-- FreeCodeCamp | Javascript Algorithms And Data Structures
-  
-- FreeCodeCamp | Responsive Web Design
-  
-- Google | Google Analytics Individual Qualification
-
-These are the courses and certifications I have completed to develop my skills in web development, IT support, project management, and data analytics. Through these programs, I have gained a comprehensive understanding of programming languages, project planning and execution, and data analysis tools.Fav tool is Pandas.
-</ul>
-<h4>Languages</h4>
-<ul>
-<li>English</li>
-<li>SePedi</li>
-</ul>
-</div>
-</body>
-</html>
+       <a href="https://www.figma.com/proto/emoa5fWGk1R3IxKpGn6EvG/Music-Player-Design?type=design&node-id=1-1496&t=OVmgLjdfJDxtVtoZ-1&scaling=contain&page-id=
