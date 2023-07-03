@@ -50,7 +50,7 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
        <a href="https://www.figma.com/proto/emoa5fWGk1R3IxKpGn6EvG/Music-Player-Design?type=design&node-id=1-1496&t=OVmgLjdfJDxtVtoZ-1&scaling=contain&page-id=0%3A1&mode=design">Music Player Design</a>
      </li>
      <li>
-       <a href="https://www.figma.com/proto/CMEnLXLp6xUE7FA5atMaw5/Delicate-Delights-Brand-and-Identity?type=design&node-id=31-1377&t=tgDr9XDHbtL9t7Vw-1&scaling=contain&page-id=0%3A1&mode=design">Brand and Identity</a>
+       <a href="https://www.figma.com/proto/CMEnLXLp6xUE7FA5atMaw5/Delicate-Delights-Brand-and-Identity?type=design&node-id=39-81&t=Ik2kFQwzsh5a0pOZ-1&scaling=contain&page-id=0%3A1&mode=design">Brand and Identity</a>
      </li>
      </ul>
 <h3>Experience</h3>
