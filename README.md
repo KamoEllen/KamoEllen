@@ -3,17 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .resume-button {
-      display: inline-block;
-      padding: 10px 15px;
-      background-color: #4CAF50;
-      color: white;
-      text-decoration: none;
-      font-weight: bold;
-      border-radius: 5px;
-    }
-  </style>
+  
 </head>
 <body>
   <a href="https://docs.google.com/document/d/15OorzpZTJ90-YzdfiPBnQVNF6nhbnVFjfkPD3jeXwT0/edit?usp=sharing" class="resume-button">Resume</a>
