@@ -51,4 +51,7 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
      <li>
        <a href="https://www.figma.com/proto/emoa5fWGk1R3IxKpGn6EvG/Music-Player-Design?type=design&node-id=1-1496&t=f2Yf7lyFfkmlfpY2-1&scaling=scale-down&page-id=0%3A1&mode=design">Music Player</a>
        </li>
+    <li>
+      <a href="https://www.figma.com/proto/CMEnLXLp6xUE7FA5atMaw5/Brand-and-Identity?type=design&node-id=39-81&t=km4DWj9uu7RMKUbV-1&scaling=scale-down&page-id=0%3A1&mode=design">Brand and Identity</a>
+    </li>
        
