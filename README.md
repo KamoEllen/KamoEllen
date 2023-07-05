@@ -46,7 +46,7 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
    <ul>
 
   <li>
-    <a href="https://www.figma.com/proto/taCA19v7OMHlRYZDCJ14Fc/SHOP?type=design&node-id=12-3261&t=wXW2ESAmRSZx8KC6-1&scaling=scale-down-width&page-id=0%3A1&mode=design">Fashion Online Store</a>
+    <a href="https://www.figma.com/proto/JZ7hPdJy2bGGEPKWH6HcQh/Fashion-Store?type=design&node-id=1-466&t=WMRKBHUy7gAmYBNf-1&scaling=scale-down-width&page-id=0%3A1&mode=design">Fashion Online Store</a>
   </li>
      <li>
        <a href="https://www.figma.com/proto/emoa5fWGk1R3IxKpGn6EvG/Music-Player-Design?type=design&node-id=1-1496&t=f2Yf7lyFfkmlfpY2-1&scaling=scale-down&page-id=0%3A1&mode=design">Music Player</a>
