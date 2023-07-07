@@ -6,6 +6,7 @@
   
 </head>
 <body>
+  <a href="https://www.figma.com/proto/93X3VYg5IJeO4JdnbzFoSV/Portfolio?type=design&node-id=55-293&t=6WrTOCeidOaRavj1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=55%3A293&show-proto-sidebar=1&mode=design">Visual Intro To My Work</a>
   <a href="https://docs.google.com/document/d/15OorzpZTJ90-YzdfiPBnQVNF6nhbnVFjfkPD3jeXwT0/edit?usp=sharing" class="resume-button">Resume</a>
 
   <h2>Web Developer</h2>
