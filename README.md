@@ -28,10 +28,11 @@ I have experience in Maintenance and Repair, Analytical and Critical Thinking, U
 Realized late that I have to have links for projects.I'll do that.Some have screenshots/videos, Like the ChatGPT clone & html/js websites & C++ projects.
   <li>Programming
     <ul>
-     <li><a href="https://github.com/KamoEllen/ChatGPT-clone-part-2-js-ai-">ChatGPT-clone-Reactjs</a></li>
-      <li><a href="https://ornate-mousse-194f6f.netlify.app/">Blog-Reactjs</a></li>
-      <li><a href="https://bucolic-daffodil-90aaeb.netlify.app/">Tik-Tac-Toe-Reactjs</a></li>
-      <li><a href="https://tinyurl.com/kamoellenkganakga">Portfolio</a></li>
+      <li><a href="https://tinyurl.com/travel2southafrica">Travel Website using React</a></li>
+     <li><a href="https://github.com/KamoEllen/ChatGPT-clone-part-2-js-ai-">ChatGPT clone using React</a></li>
+      <li><a href="https://ornate-mousse-194f6f.netlify.app/">Blog using React</a></li>
+      <li><a href="https://bucolic-daffodil-90aaeb.netlify.app/">Tik Tac Toe Game using React</a></li>
+      <li><a href="https://tinyurl.com/kamoellenkganakga">Portfolio using React</a></li>
        <li><a href="https://github.com/KamoEllen/netflix-html-css">Netflix-Html/Css-Clone</a></li>
     </ul>
   </li>
