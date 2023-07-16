@@ -12,6 +12,10 @@
   <li>
   <a href="https://docs.google.com/document/d/15OorzpZTJ90-YzdfiPBnQVNF6nhbnVFjfkPD3jeXwT0/edit?usp=sharing" class="resume-button">Resume</a>
    </li>
+    <li>
+    <a href="https://dashing-lollipop-fb6c93.netlify.app/">UX Design</a>
+  </li>
+
   <h2>Web Developer</h2>
   <a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a><br>
   kamoellenkganakga@gmail.com</p>
@@ -51,13 +55,4 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
   <li>Figma</li>
    <ul>
 
-  <li>
-    <a href="https://www.figma.com/proto/JZ7hPdJy2bGGEPKWH6HcQh/Fashion-Store?type=design&node-id=1-466&t=WMRKBHUy7gAmYBNf-1&scaling=scale-down-width&page-id=0%3A1&mode=design">Fashion Online Store</a>
-  </li>
-     <li>
-       <a href="https://www.figma.com/proto/emoa5fWGk1R3IxKpGn6EvG/Music-Player-Design?type=design&node-id=1-1496&t=f2Yf7lyFfkmlfpY2-1&scaling=scale-down&page-id=0%3A1&mode=design">Music Player</a>
-       </li>
-    <li>
-      <a href="https://www.figma.com/proto/CMEnLXLp6xUE7FA5atMaw5/Brand-and-Identity?type=design&node-id=39-81&t=km4DWj9uu7RMKUbV-1&scaling=scale-down&page-id=0%3A1&mode=design">Brand and Identity</a>
-    </li>
-       
+
