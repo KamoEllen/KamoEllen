@@ -52,7 +52,6 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
     </ul>
   </li>
 </ul>
-  <li>Figma</li>
-   <ul>
+
 
 
