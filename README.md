@@ -7,34 +7,10 @@
 </head>
 <body>
 
-  <li>
-  <a href="https://docs.google.com/document/d/15OorzpZTJ90-YzdfiPBnQVNF6nhbnVFjfkPD3jeXwT0/edit?usp=sharing" class="resume-button">Resume</a>
-   </li>
-    <li>
-    <a href="https://dashing-lollipop-fb6c93.netlify.app/">UX Design Website </a>
-  </li>
-  <li>
-  <a href="https://www.figma.com/proto/93X3VYg5IJeO4JdnbzFoSV/Portfolio?type=design&node-id=55-293&t=6WrTOCeidOaRavj1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=55%3A293&show-proto-sidebar=1&mode=design">Visual Intro To My Work</a>
-  </li>
-  <h2>Web Developer</h2>
-  <a href="https://tinyurl.com/kamoellenkganakga">https://tinyurl.com/kamoellenkganakga</a><br>
-  kamoellenkganakga@gmail.com</p>
-   <h3>Skills/Tools</h3>
-<div>
-I have experience in Maintenance and Repair, Analytical and Critical Thinking, UI improvements, Code debugging, Web Design, CSS, C++, Figma, Technical Support, Command-line interface (CLI), Windows, Linux,Ubuntu, JavaScript, Project Management, Python, Agile Workflow, UX Design, Git, HTML, Next.js, Github, Visual Studio Code, Vercel, Node.js, Agile methodologies, and React.
-</div> 
-  <div>
-  <h3>Languages:</h3>
-   <li>C++</li>
-   <li>Python</li>
-   <li>Html</li>
-   <li>JavaScript</li>
-  <li>java soon.</li>
-</div> 
+  <h2>Front-end Developer</h2>
+
   <h3>Projects</h3>
-<ul>
-Realized late that I have to have links for projects.I'll do that.Some have screenshots/videos, Like the ChatGPT clone & html/js websites & C++ projects.
-  <li>Programming
+ <li>Programming
     <ul>
       <li><a href="https://tinyurl.com/travel2southafrica">Travel Website using React</a></li>
       <li><a href="https://tinyurl.com/B2Blandingpage">B2B landingpage using Reactjs</a></li>
@@ -53,5 +29,12 @@ Realized late that I have to have links for projects.I'll do that.Some have scre
   </li>
 </ul>
 
-
-
+  <li>
+  <a href="https://docs.google.com/document/d/15OorzpZTJ90-YzdfiPBnQVNF6nhbnVFjfkPD3jeXwT0/edit?usp=sharing" class="resume-button">Resume</a>
+   </li>
+    <li>
+    <a href="https://dashing-lollipop-fb6c93.netlify.app/">UX Design Website </a>
+  </li>
+  <li>
+  <a href="https://www.figma.com/proto/93X3VYg5IJeO4JdnbzFoSV/Portfolio?type=design&node-id=55-293&t=6WrTOCeidOaRavj1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=55%3A293&show-proto-sidebar=1&mode=design">Visual Intro To My Work</a>
+  </li>
