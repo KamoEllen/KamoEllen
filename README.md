@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 
 
