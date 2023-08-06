@@ -24,12 +24,3 @@
 
 
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/KamoEllen/Marketing-Data-Report)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/KamoEllen/Fraud-Detection-Report)
-
-### Data Science Projects
-
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/KamoEllen/Marketing-Data-Report)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/KamoEllen/Fraud-Detection-Report)
-
-
