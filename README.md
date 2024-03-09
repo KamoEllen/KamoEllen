@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ellen</h1>
+<h1 align="center">Hi 💜, I'm Ellen</h1>
 
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamogelokganakga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamogelokganakga/" height="30" width="40" theme=dark /></a>
