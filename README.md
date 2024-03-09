@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ellen</h1>
-<hr>
-<p align="left">
-  
-### Portfolio
-  
-[![](https://img.shields.io/badge/-🩸%20Fire-000)](kamo.website)
-<hr>
+
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamogelokganakga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamogelokganakga/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/kamogelokganakga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/kamogelokganakga" height="30" width="40" /></a>
