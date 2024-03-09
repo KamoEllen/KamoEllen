@@ -23,9 +23,28 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="red"/></svg>');
-      opacity: 0.1;
+      background-color: #f0f0f0;
       z-index: -1;
+    }
+    .pattern::before {
+      content: "";
+      position: absolute;
+      top: -10px;
+      left: -10px;
+      width: 20px;
+      height: 20px;
+      background-color: #e74c3c;
+      transform: rotate(45deg);
+    }
+    .pattern::after {
+      content: "";
+      position: absolute;
+      top: -10px;
+      right: -10px;
+      width: 20px;
+      height: 20px;
+      background-color: #e74c3c;
+      transform: rotate(45deg);
     }
   </style>
 </head>
