@@ -23,34 +23,40 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background-color: #f0f0f0;
       z-index: -1;
     }
-    .pattern::before {
-      content: "";
+    .box {
       position: absolute;
-      top: -10px;
-      left: -10px;
-      width: 20px;
-      height: 20px;
+      width: 50%;
+      height: 50%;
       background-color: #e74c3c;
-      transform: rotate(45deg);
     }
-    .pattern::after {
-      content: "";
-      position: absolute;
-      top: -10px;
-      right: -10px;
-      width: 20px;
-      height: 20px;
-      background-color: #e74c3c;
-      transform: rotate(45deg);
+    .box:nth-child(1) {
+      top: 0;
+      left: 0;
+    }
+    .box:nth-child(2) {
+      top: 0;
+      right: 0;
+    }
+    .box:nth-child(3) {
+      bottom: 0;
+      left: 0;
+    }
+    .box:nth-child(4) {
+      bottom: 0;
+      right: 0;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <div class="pattern"></div>
+    <div class="pattern">
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
     <h1 align="center">Hi 👋, I'm Ellen</h1>
     <p align="center">
       <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamogelokganakga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamogelokganakga/" height="30" width="40" theme=dark /></a>
