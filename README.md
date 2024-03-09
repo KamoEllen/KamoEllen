@@ -8,6 +8,11 @@
 </div>
 
 <div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&layout=compact&theme=midnight-purple)
+</div>
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KamoEllen&show_icons=true&theme=midnight-purple" alt="GitHub stats">
 </div>
 
