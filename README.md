@@ -8,11 +8,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/kamoellenkganakga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kamoellenkganakga/" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamoellen&show_icons=true&locale=en&layout=compact" alt="kamoellen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamoellen&" alt="kamoellen" /></p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamoEllen&show_icons=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamoEllen&show_icons=true&theme=dark)
 
