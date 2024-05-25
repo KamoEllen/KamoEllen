@@ -38,7 +38,7 @@
 # About ME 💬 :
 
 ### - I like puzzles , books and seafood.
-
+<div align="center>
 <img hight="400" width="500" alt="GIF" align="right" src="mood.gif">
 
 ### - Learning :
@@ -50,7 +50,7 @@
 - ✨ Watching Anime
 - ✨ Dancing
 - ✨ Reading Light Novels
-
+</div>
 
 </br>
 </br>
