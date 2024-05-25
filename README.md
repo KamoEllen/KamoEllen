@@ -6,6 +6,7 @@
     <a href="https://www.leetcode.com/https://leetcode.com/kamoellenkganakga/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kamoellenkganakga/" height="30" width="40" /></a>
     <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kamoellen&label=Profile%20views&color=0e75b6&style=flat" alt="kamoellen" />
+        [![committers.top badge](https://kamoellen-badge.committers.top/south_africa/kamoellen.svg)](https://kamoellen-badge.committers.top/south_africa/kamoellen)
   <a href="https://committers.top/south_africa_public#kamoellen" target="blank"><img src="https://user-badge.committers.top/south_africa_public/kamoellen.svg" alt="kamoellen" /></a>
 </p>
 </div>
