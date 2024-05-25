@@ -99,7 +99,7 @@
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=midnight-purple&count_private=true) | ![Ellen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&layout=compact&theme=midnight-purple&count_private=true&layout=compact) |
+| ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=midnight-purple&count_private=true) |  ![Ellen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=midnight-purple&count_private=true&layout=compact) |
 
 
 
