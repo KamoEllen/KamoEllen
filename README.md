@@ -19,7 +19,6 @@
 
 # About ME 💬 :
 
-### - I like puzzles , books and seafood.
 
 <img hight="400" width="500" alt="GIF" align="right" src="mood.gif">
 
