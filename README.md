@@ -38,19 +38,19 @@
 # About ME 💬 :
 
 ### - I like puzzles , books and seafood.
-<div align="center>
+
 <img hight="400" width="500" alt="GIF" align="right" src="mood.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+✨ Data Structures & Algorithms
+✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ CTF
-- ✨ Watching Anime
-- ✨ Dancing
-- ✨ Reading Light Novels
-</div>
+✨ CTF
+✨ Watching Anime
+✨ Dancing
+✨ Reading Light Novels
+
 
 </br>
 </br>
