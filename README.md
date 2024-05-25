@@ -7,11 +7,8 @@
     <p align="left"> 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kamoellen&label=Profile%20views&color=0e75b6&style=flat" alt="kamoellen" />
-  <a href="https://committers.top/south_africa/kamoellen" target="_blank">
-    <img src="https://kamoellen-badge.committers.top/south_africa/kamoellen.svg" alt="kamoellen" />
-  </a>
-  <a href="https://committers.top/south_africa_public#kamoellen" target="_blank">
-    <img src="https://user-badge.committers.top/south_africa_public/kamoellen.svg" alt="kamoellen" />
+
+
   </a>
 </p>
 
