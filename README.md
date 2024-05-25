@@ -14,7 +14,7 @@
 
 </p>
 
-
+</br>
 # About ME 💬 :
 
 
@@ -29,7 +29,10 @@
 ✨ Watching Anime
 ✨ Dancing
 ✨ Reading Light Novels
-
+</br>
+</br>
+</br>
+</br>
 # Quick stats about me 
 
 ### Github Stat
