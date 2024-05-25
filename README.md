@@ -41,26 +41,6 @@
 </br>
 
 
-# Maze Presentaion
-## Presentation
-
-<a href="https://www.youtube.com/watch?v=sp3uA6rvSjw" target="blank">
-<p align="center">Watch Portfolio Project Presentation Video</p>
-<p align="center">
-<img width="70%" src="https://github.com/KamoEllen/Game-3D-Maze/blob/main/game.png" alt="kamoellen" /></p>
-</a>
-
-- name: LeetCode
-  uses: kamoellenkganakga/metrics@latest
-  with:
-    filename: metrics.plugin.leetcode.svg
-    token: NOT_NEEDED
-    base: ""
-    plugin_leetcode: yes
-    plugin_leetcode_sections: solved, skills, recent
-
-
-
 # Quick stats about me 
 
 ### Github Stat
