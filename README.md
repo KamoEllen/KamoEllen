@@ -79,6 +79,9 @@
 # Leetcode Stat
 ![](https://leetcard.kamoellenkganakga.cool/leetcode?site=cn)
 
+<a href="https://leetcard.kamoellenkganakga.cool/leetcode?site=cn" target="blank">
+<a href="https://www.leetcode.com/https://leetcode.com/kamoellenkganakga/" target="blank">
+
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📊 Metrics 
