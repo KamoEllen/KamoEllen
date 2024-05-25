@@ -77,8 +77,13 @@
 ###Front-end
 
 ###Back-end
+<a href="https://github.com/KamoEllen/Game-3D-Maze">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 ###Data Science
+
+
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📊 Metrics 
 
