@@ -70,6 +70,7 @@
 | ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=midnight-purple&count_private=true) |  ![Ellen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=midnight-purple&count_private=true&layout=compact) | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=midnight-purple" alt="GitHub Streak"></a>
 
 ### Leetcode Stat
+[![Ellen's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kamoellenkganakga)](https://github.com/kamoellen/leetcode-stats)
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📊 Metrics 
