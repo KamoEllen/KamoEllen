@@ -43,40 +43,13 @@
 
 | Frontend | Backend | Data Science | Hackathons | Design |
 | --- | --- | --- | --- | --- |
-| <a href="https://github.com/KamoEllen/Game-3D-Maze"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Game-3D-Maze"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Marketing-Data-Report"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Marketing-Data-Report&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Building-Resilient-Communities-GNEC-Hackathon"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Building-Resilient-Communities-GNEC-Hackathon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Game-3D-Maze"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> |
+| <a href="https://github.com/KamoEllen/Game-3D-Maze"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Game-3D-Maze"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Marketing-Data-Report"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Marketing-Data-Report&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
 
-
-
+| Hackathons | Design |
+|  --- | --- |
+| <a href="https://github.com/KamoEllen/Building-Resilient-Communities-GNEC-Hackathon"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Building-Resilient-Communities-GNEC-Hackathon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Game-3D-Maze"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> |
 
 
 
 ### Leetcode Stat
 [![Ellen's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kamoellenkganakga&theme=dark)](https://github.com/kamoellen/leetcode-stats)
-
-# Fav Projects
-
-### Front-end
-
-
-### Back-end
-
-<a href="https://github.com/KamoEllen/Game-3D-Maze">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-### Data Science
-
-<a href="https://github.com/KamoEllen/Marketing-Data-Report">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Marketing-Data-Report&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-### Hackathon
-
-<a href="https://github.com/KamoEllen/Building-Resilient-Communities-GNEC-Hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Building-Resilient-Communities-GNEC-Hackathon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 📊 Metrics 
-
-
