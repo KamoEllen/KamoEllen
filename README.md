@@ -83,6 +83,26 @@
 <a href="https://www.leetcode.com/https://leetcode.com/kamoellenkganakga/" target="blank">
 
 
+# Github Stat
+
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ellen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&layout=compact&theme=midnight-purple")
+
+
+
+# Github Stat
+
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=midnight-purple&count_private=true) | ![Ellen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&layout=compact&theme=midnight-purple&count_private=true&layout=compact) |
+
+
+
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📊 Metrics 
 
