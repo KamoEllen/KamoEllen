@@ -46,10 +46,11 @@
 - ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ CTF
 - ✨ Watching Anime
+- ✨ Dancing
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+
 
 </br>
 </br>
