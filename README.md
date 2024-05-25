@@ -44,7 +44,11 @@
 | Frontend | Backend | Data Science | Hackathons | Design
 | --- | --- |  -- | --- |  -- |
 | ![Frontend](<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> ) |  ![Backend](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=midnight-purple&count_private=true&layout=compact) | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=midnight-purple" alt="GitHub Streak"></a> |  ![Data Science](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=midnight-purple&count_private=true&layout=compact) | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=midnight-purple" alt="GitHub Streak"></a> |  ![Hackathons](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=midnight-purple&count_private=true&layout=compact) | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=midnight-purple" alt="GitHub Streak"></a> |  ![Design](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=midnight-purple&count_private=true&layout=compact) | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=midnight-purple" alt="GitHub Streak"></a>
+</a> ) |  ![Backend](<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> )|  ![Data Science](<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> )|  ![Hackathons](<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> )|  ![Design](<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> )
 
 
 
