@@ -1,4 +1,4 @@
-<h1 align="center">Hi 💜, I'm Ellen</h1>
+<h1 align="center">Hi 🤍, I'm Ellen</h1>
 <br>
 <div align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamogelokganakga/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamogelokganakga/" height="30" width="40" theme=dark /></a>
@@ -15,20 +15,23 @@
 </p>
 
 </br>
-# About ME 💬 :
+
+
+# About ME 🤍 :
 
 
 <img hight="400" width="500" alt="GIF" align="right" src="mood.gif">
 
 ### - Learning :
-✨ Data Structures & Algorithms
-✨ Generative Adversarial Networks
+🤍 Data Structures & Algorithms
+🤍 Generative Adversarial Networks
 
 ### - Hobbies : 
-✨ CTF
-✨ Watching Anime
-✨ Dancing
-✨ Reading Light Novels
+🤍 CTF
+🤍 Watching Anime
+🤍 Dancing
+🤍 Reading Light Novels
+
 </br>
 </br>
 </br>
