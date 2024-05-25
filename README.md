@@ -5,9 +5,16 @@
     <a href="https://www.behance.net/https://www.behance.net/kamoellenkganakga" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/kamoellenkganakga" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/https://leetcode.com/kamoellenkganakga/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kamoellenkganakga/" height="30" width="40" /></a>
     <p align="left"> 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kamoellen&label=Profile%20views&color=0e75b6&style=flat" alt="kamoellen" />
-        [![committers.top badge](https://kamoellen-badge.committers.top/south_africa/kamoellen.svg)](https://kamoellen-badge.committers.top/south_africa/kamoellen)
-  <a href="https://committers.top/south_africa_public#kamoellen" target="blank"><img src="https://user-badge.committers.top/south_africa_public/kamoellen.svg" alt="kamoellen" /></a>
+  <a href="https://committers.top/south_africa/kamoellen" target="_blank">
+    <img src="https://kamoellen-badge.committers.top/south_africa/kamoellen.svg" alt="kamoellen" />
+  </a>
+  <a href="https://committers.top/south_africa_public#kamoellen" target="_blank">
+    <img src="https://user-badge.committers.top/south_africa_public/kamoellen.svg" alt="kamoellen" />
+  </a>
+</p>
+
 </p>
 </div>
 
