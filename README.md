@@ -39,7 +39,7 @@
 
 ### - I like puzzles , books and seafood.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F63373-attack-on-titan-gifs%3Fpage%3D15&psig=AOvVaw2ytVorJWzJKB9GFtKtbU3m&ust=1716741009087000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi7jvScqYYDFQAAAAAdAAAAABAE.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="mood.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
