@@ -13,25 +13,7 @@
 </p>
 
 </p>
-</div>
 
-<br><br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamoEllen&layout=compact&theme=midnight-purple")
-
-</div>
-<br><br><br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KamoEllen&show_icons=true&theme=midnight-purple" alt="GitHub stats">
-</div>
-
-<br><br>
-
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=midnight-purple" alt="GitHub Streak"></a>
-</div>
 
 
 
