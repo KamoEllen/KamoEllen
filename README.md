@@ -34,22 +34,16 @@
 
 </br>
 </br>
-</br>
-</br>
 
 
 # Quick stats about me 
 
 ### Fun Stats
 
-| Github Stats | Top Languages |
+| Github Stats | Leetcode Stats |
 | --- | --- | 
-| ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=dark&count_private=true) |  ![Ellen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=dark&count_private=true&layout=compact) 
+| ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=dark&count_private=true) |  [![Ellen's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kamoellenkganakga&theme=dark)](https://github.com/kamoellen/leetcode-stats)
 
-
-| Streak | Leetcode
-|  -- | -- |
-|  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=dark" alt="GitHub Streak"></a> | [![Ellen's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kamoellenkganakga&theme=dark)](https://github.com/kamoellen/leetcode-stats)
 
 
 ### Fav Projects 
