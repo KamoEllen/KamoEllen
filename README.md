@@ -15,8 +15,6 @@
 </p>
 
 
-
-
 # About ME 💬 :
 
 
@@ -32,15 +30,6 @@
 ✨ Dancing
 ✨ Reading Light Novels
 
-
-</br>
-</br>
-</br>
-
-</br>
-</br>
-
-
 # Quick stats about me 
 
 ### Github Stat
@@ -48,6 +37,19 @@
 | Github Stats | Top Languages | Streak
 | --- | --- |  -- |
 | ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=midnight-purple&count_private=true) |  ![Ellen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=midnight-purple&count_private=true&layout=compact) | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=midnight-purple" alt="GitHub Streak"></a>
+
+
+### Fav Projects 
+
+| Frontend | Backend | Data Science | Hackathons | Design
+| --- | --- |  -- | --- |  -- |
+| ![Ellen's github stats](<a href="https://github.com/KamoEllen/Game-3D-Maze">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> ) |  ![Ellen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&show_icons=true&theme=midnight-purple&count_private=true&layout=compact) | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamoEllen&theme=midnight-purple" alt="GitHub Streak"></a>
+
+
+
+
 
 ### Leetcode Stat
 [![Ellen's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kamoellenkganakga&theme=dark)](https://github.com/kamoellen/leetcode-stats)
