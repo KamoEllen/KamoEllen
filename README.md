@@ -48,34 +48,10 @@
 ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 
-<!--
-![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
-![DDD](https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white)&nbsp;
-![PMBOK](https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)\
-![Ant](https://img.shields.io/badge/ANT-A81C7D.svg?&style=flat&logo=apache-ant)&nbsp;
-![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
-![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
--->
+
 
 </details>
 
-<!-- 
-jquery, sass
-nestjs, nodejs, redis, nginx,
-rest, graphql, grpc
-apache kafka,
-google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
-Kubernates, puppet, github actions
-python, c, cpp, arduino
-php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
--->
 
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
@@ -114,9 +90,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
         <!--<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=kamoellen&hide_border=true&theme=dark" />-->
       <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=dark&count_private=true" />
     </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kamoellen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamoellen&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-    </p>
+   
 </details>
 
 <hr/>
@@ -137,7 +111,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 
 
-
+<!--
 ------------------------------------------------<h1 align="center">Hi 🤍, I'm Ellen</h1>
 <br>
 <div align="center">
@@ -189,7 +163,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 
 
-
+-->
 
 
 
