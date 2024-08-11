@@ -1,11 +1,12 @@
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/sk-flag.png" height="13"> Korean</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/sa-flag.png" height="13"> Sepedi</a></td></tr>
-     <tr><td><a href="README_pt.md"><img src="images/sa-flag.png" height="13"> Afrikaans</a></td></tr>
+ <tr><td>🇺🇸 English</td></tr>
+ <tr><td>🇰🇷 Korean</td></tr>
+ <tr><td>🇿🇦 Sepedi</td></tr>
+ <tr><td>🇿🇦 Afrikaans</td></tr>
 </table>
+
 
 ### 👾 &nbsp;About Me
 
