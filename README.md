@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="Web-Banner.svg"></img>
 
 <table align="right">
  <tr><td>🇺🇸 English</td></tr>
