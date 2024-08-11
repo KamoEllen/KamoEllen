@@ -1,4 +1,5 @@
-<img src="Web-Banner.svg"></img>
+
+![Banner](https://raw.githubusercontent.com/kamoellen/kamoellen/banner.svg)
 
 <table align="right">
  <tr><td>🇺🇸 English</td></tr>
