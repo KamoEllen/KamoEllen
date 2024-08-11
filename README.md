@@ -1,5 +1,4 @@
-
-![Banner](https://raw.githubusercontent.com/kamoellen/kamoellen/banner.svg)
+![Banner](https://raw.githubusercontent.com/KamoEllen/KamoEllen/main/banner.svg)
 
 <table align="right">
  <tr><td>🇺🇸 English</td></tr>
