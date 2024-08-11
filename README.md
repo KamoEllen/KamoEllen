@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/KamoEllen/KamoEllen/main/Banner.png)
+![Banner](https://raw.githubusercontent.com/KamoEllen/KamoEllen/main/Banner.svg)
 
 <table align="right">
  <tr><td>🇺🇸 English</td></tr>
