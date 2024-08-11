@@ -7,13 +7,13 @@
      <tr><td><a href="README_pt.md"><img src="images/sa-flag.png" height="13"> Afrikaans</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### 👾 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Fallible](https://www.fallible.com/).  
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Graduate from [ALX](https://www.alxafrica.com/).  
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love joining startups.  
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about science, dancing, reading, and watching anime.  
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2019.
+&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Currently working as a Software Engineer at [Fallible](https://www.fallible.com/).  
+&nbsp;&nbsp;&nbsp;🧑‍🎓 &nbsp;Graduate from [ALX](https://www.alxafrica.com/).  
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Love joining startups.  
+&nbsp;&nbsp;&nbsp;❤️ &nbsp;Passionate about science, dancing, reading, and watching anime.  
+&nbsp;&nbsp;&nbsp;🔧 &nbsp;Coding since 2019.
 
 <p align="center">
   <a href="mailto:kamoellenkganakga@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
