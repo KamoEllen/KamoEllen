@@ -26,62 +26,62 @@
 <details>
   <summary><b>:computer: &nbsp;Design & UI/UX</b></summary>
   <br/>
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white)
-- ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat&logo=adobe-illustrator&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=figma&logoColor=white)
+ ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat&logo=adobe-illustrator&logoColor=white)
 </details>
 
 
 <details>
   <summary><b>:computer: &nbsp;Frontend Technologies</b></summary>
   <br/>
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=black)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=flat&logo=tailwindcss&logoColor=white)
-- ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)
+ [HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)
+ [CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+ [JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
+ [TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=flat&logo=typescript&logoColor=white)
+ [React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=black)
+[Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=flat&logo=tailwindcss&logoColor=white)
+[SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)
 
 </details>
 
 
 <details>
-  <summary><b>:brain: &nbsp;Backend Tech</b></summary>
+  <summary><b>🕵️‍♀️: &nbsp;Backend Tech</b></summary>
   <br/>
-- ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=nodedotjs&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white)
-- ![Gin](https://img.shields.io/badge/Gin-00ADD8.svg?&style=flat&logo=go&logoColor=white)
-- ![Chi](https://img.shields.io/badge/Chi-00ADD8.svg?&style=flat&logo=go&logoColor=white)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=flat&logo=cplusplus&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C.svg?&style=flat&logo=c&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8.svg?&style=flat&logo=go&logoColor=white)
+![Chi](https://img.shields.io/badge/Chi-00ADD8.svg?&style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?&style=flat&logo=c&logoColor=white)
 
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Database & Architecture</b></summary>
+  <summary><b>🏗️: &nbsp;Database & Architecture</b></summary>
   <br/>
-- ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=oracle&logoColor=white)
-- ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000.svg?&style=flat&logo=none&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=oracle&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000.svg?&style=flat&logo=none&logoColor=white)
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Environment & Tools</b></summary>
+  <summary><b>🧰: &nbsp;Environment & Tools</b></summary>
   <br/>
-- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat&logo=eclipse&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat&logo=intellij-idea&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white)
-- ![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?&style=flat&logo=gitlab&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)
-- ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)
-- ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?&style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)
 
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>📈: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <!--<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=kamoellen&hide_border=true&theme=dark" />-->
