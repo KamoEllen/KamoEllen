@@ -10,7 +10,7 @@
 
 ### 👾 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Currently working as a Software Engineer at [Fallible](https://www.fallible.com/).  
+<!--&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Currently working as a Software Engineer at [Fallible](https://www.fallible.com/).  -->
 &nbsp;&nbsp;&nbsp;🧑‍🎓 &nbsp;Graduate from [ALX](https://www.alxafrica.com/).  
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Love joining startups.  
 &nbsp;&nbsp;&nbsp;❤️ &nbsp;Passionate about science, dancing, reading, and watching anime.  
