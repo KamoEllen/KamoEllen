@@ -21,5 +21,3 @@
 | **Total Stars**    | ![GitHub Stars](https://img.shields.io/github/stars/kamoellen?style=flat)   | **Email**          | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kamoellenkganakga@gmail.com) |
 | **Total Commits**  | ![GitHub Commits](https://img.shields.io/github/commit-activity/y/kamoellen?style=flat) | **LinkedIn**       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamogelokganakga/) |
 | **Profile Views**  | ![Profile Views](https://komarev.com/ghpvc/?username=kamoellen&style=flat)  | **Behance**        | [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/kamoellenkganakga/) |
-
-<p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=true&theme=dark&count_private=true" /></p>
