@@ -31,9 +31,7 @@
 | **Total Commits**  | ![GitHub Commits](https://img.shields.io/github/commit-activity/y/kamoellen?style=flat) |
 | **Profile Views**  | ![Profile Views](https://komarev.com/ghpvc/?username=kamoellen&style=flat)  |
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=true&theme=dark&count_private=true" />
-</p>
+<p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=true&theme=dark&count_private=true" /></p>
 
 ---
 
