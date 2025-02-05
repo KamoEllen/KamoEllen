@@ -1,10 +1,10 @@
-<!--![Banner](https://raw.githubusercontent.com/KamoEllen/KamoEllen/main/Banner.svg)-->
+<!--![Banner](https://raw.githubusercontent.com/KamoEllen/KamoEllen/main/Banner.svg)
 
 <h1 align="center" style="color: #ffffff; text-shadow: 2px 2px 4px #000000;">Kamo Ellen</h1>
 <h3 align="center" style="color: #c0c0c0; text-shadow: 1px 1px 2px #000000;">Software Engineer | ALX Grad</h3>
 
 ---
-
+-->
 ### 👾 About Me | 🛠️ Tech Stack  
 | **Category**       | **Details**                                                                 |     | **Category**       | **Skills**                                                                 |
 |--------------------|-----------------------------------------------------------------------------|-----|--------------------|-----------------------------------------------------------------------------|
