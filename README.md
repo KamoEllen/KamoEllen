@@ -1,3 +1,46 @@
+<!--![Banner](https://raw.githubusercontent.com/KamoEllen/KamoEllen/main/Banner_animated.gif)-->
+
+<table align="right">
+ <tr><td>🇺🇸 English</td></tr>
+ <tr><td>🇰🇷 Korean</td></tr>
+ <tr><td>🇿🇦 Sepedi</td></tr>
+ <tr><td>🇿🇦 Afrikaans</td></tr>
+</table>
+
+### 👾 About Me
+
+| **Category**       | **Details**                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| 🧑‍🎓 Education      | Graduate from [ALX](https://www.alxafrica.com/).                            |
+| 🌱 Interests       | Love joining startups.                                                     |
+| ❤️ Passions        | Math, dancing, reading, and watching anime.                                |
+| 🔧 Coding Since    | 2019                                                                       |
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamoellen&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-80%25-61DAFB?style=flat&logo=react&logoColor=black)
+
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Scalable Backend with Go](https://example.com)
+- [Mastering CSS Grid in 2023](https://example.com)
+- [Why Clean Architecture Matters](https://example.com)
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <a href="mailto:kamoellenkganakga@gmail.com?subject=Hello%20Ellen"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://behance.net/kamoellenkganakga/"><img src="https://img.shields.io/badge/behance-%23dc2743.svg?&style=for-the-badge&logo=behance&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kamogelokganakga/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr/>
+<!-- Rest of your README content -->
+<!--
+
 <!--![Banner](https://raw.githubusercontent.com/KamoEllen/KamoEllen/main/Banner.svg)-->
 
 <table align="right">
@@ -86,75 +129,6 @@
 </details>
 
 <hr/>
-
-<!--
-<p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
-</p>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=kamoellen&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/kamoellen/kamoellen?color=black&logo=github" />
-</p>
-
--->
-
-
-
-
-
-<!--
-------------------------------------------------<h1 align="center">Hi 🤍, I'm Ellen</h1>
-<br>
-<div align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamogelokganakga/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamogelokganakga/" height="30" width="40" theme=dark /></a>
-    <a href="https://www.behance.net/https://www.behance.net/kamoellenkganakga" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/kamoellenkganakga" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/https://leetcode.com/kamoellenkganakga/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kamoellenkganakga/" height="30" width="40" /></a>
-    <p align="left"> 
-
-
-</p>
-
-</br>
-
-
-# About ME 🤍 :
-
-
-<img hight="400" width="500" alt="GIF" align="right" src="mood.gif">
-
-### - Learning :
-🤍 Data Structures & Algorithms
-🤍 Generative Adversarial Networks
-
-### - Hobbies : 
-🤍 CTF
-🤍 Watching Anime
-🤍 Dancing
-🤍 Reading Light Novels
-
-</br>
-</br>
-
-
-# Quick stats about me 
-
-### Fun Stats
-
-| Github Stats | Leetcode Stats |
-| --- | --- | 
-| ![Ellen's github stats](https://github-readme-stats.vercel.app/api?username=kamoellen&show_icons=tru&layout=compact&theme=dark&count_private=true) |  [![Ellen's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kamoellenkganakga&theme=dark)](https://github.com/kamoellen/leetcode-stats)
-
-
-
-### Fav Projects 
-
-| Hackathon | Backend | Data Science 
-| --- | --- | --- | 
-| <a href="https://github.com/KamoEllen/Building-Resilient-Communities-GNEC-Hackathon"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Building-Resilient-Communities-GNEC-Hackathon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Game-3D-Maze"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Game-3D-Maze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> | <a href="https://github.com/KamoEllen/Marketing-Data-Report"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamoellen&repo=Marketing-Data-Report&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
-
 
 
 -->
