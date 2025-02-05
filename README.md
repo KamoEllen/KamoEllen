@@ -18,7 +18,6 @@
     </style>
 </head>
 <body>
-
     <div class="category">
         <h2>👩🏿 Education</h2>
         <p>Graduate from 2 programs from ALX, founder program and backend software engineering.</p>
@@ -27,7 +26,6 @@
             <li><a href="#" onclick="downloadImage('Short Specializations.png')">Backend</a></li>
         </ul>
     </div>
-
     <div class="category">
         <h2>Frontend Skills</h2>
         <p>
@@ -40,7 +38,6 @@
             </a>
         </p>
     </div>
-
     <div class="category">
         <h2>Backend Skills</h2>
         <p>
@@ -51,7 +48,6 @@
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
         </p>
     </div>
-
     <div class="category">
         <h2>Tools</h2>
         <p>
@@ -60,7 +56,6 @@
             <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
         </p>
     </div>
-
     <script>
         function downloadImage(imageName) {
             const link = document.createElement('a');
