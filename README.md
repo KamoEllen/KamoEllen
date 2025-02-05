@@ -66,6 +66,5 @@
             document.body.removeChild(link);
         }
     </script>
-
 </body>
 </html>
