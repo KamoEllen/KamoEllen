@@ -1,4 +1,8 @@
+
+> I'm currently ranked **#12** among the most active GitHub users in South Africa 🇿🇦.
+> 🏆 Check it out for yourself: [https://committers.top/south\_africa.html](https://committers.top/south_africa.html)
 [![committers.top badge](https://user-badge.committers.top/south_africa/TebogoYungMercykay.svg)](https://user-badge.committers.top/south_africa/TebogoYungMercykay)
+
 
 | **Category**       | **Details**                                                                 |     | **Category**       | **Skills**                                                                 |
 |--------------------|-----------------------------------------------------------------------------|-----|--------------------|-----------------------------------------------------------------------------|
