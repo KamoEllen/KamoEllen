@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/south_africa/KamoEllen.svg)](https://user-badge.committers.top/south_africa/KamoEllen)
+
 [![committers.top badge](https://user-badge.committers.top/south_africa/kamoellen.svg)](https://user-badge.committers.top/south_africa/kamoellen)
 
 > I'm currently ranked **#17** among the most active GitHub users in South Africa 🇿🇦.
