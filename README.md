@@ -1,12 +1,9 @@
-[![committers.top badge](https://user-badge.committers.top/south_africa/KamoEllen.svg)](https://user-badge.committers.top/south_africa/KamoEllen)
-
-[![committers.top badge](https://user-badge.committers.top/south_africa/kamoellen.svg)](https://user-badge.committers.top/south_africa/kamoellen)
 
 > I'm currently ranked **#17** among the most active GitHub users in South Africa 🇿🇦.
 > 🏆 Check it out for yourself: [https://committers.top/south\_africa.html](https://committers.top/south_africa.html)
-[![committers.top badge](https://user-badge.committers.top/south_africa/Kamogelo-Ellen-Kganakga.svg)](https://user-badge.committers.top/south_africa/Kamogelo-Ellen-Kganakga)
-
-
+[![committers.top badge](https://user-badge.committers.top/south_africa/KamoEllen.svg)](https://user-badge.committers.top/south_africa/KamoEllen)
+>
+> 
 | **Category**       | **Details**                                                                 |     | **Category**       | **Skills**                                                                 |
 |--------------------|-----------------------------------------------------------------------------|-----|--------------------|-----------------------------------------------------------------------------|
 | 👩🏿 **Education**  | Completed two specialized programs at [ALX](https://www.alxafrica.com/): the [Founder Academy](Founder%20Academy.png) and [Backend Software Engineering](Short%20Specializations.png).                            |     | **Frontend**       | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
