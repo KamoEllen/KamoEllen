@@ -13,10 +13,10 @@
 
 ## Recent Project 
 
-- [InventoryLens-Demo](https://github.com/KamoEllen/InventoryLens-Demo)
-- [SpringBoot-EcoManagement](https://github.com/KamoEllen/SpringBoot-EcoManagement)
-- [P5Js-Challenge](https://github.com/KamoEllen/P5Js-Challenge)
-- [project-management-api-v2](https://github.com/KamoEllen/project-management-api-v2)
-- [Ecommerce-Store](https://github.com/KamoEllen/Ecommerce-Store)
+- [InventoryLens-Demo Stack: React|Python|Api](https://github.com/KamoEllen/InventoryLens-Demo)
+- [SpringBoot-EcoManagement Stack: Java|Springboot](https://github.com/KamoEllen/SpringBoot-EcoManagement)
+- [P5Js-Challenge Stack: Javascipt|P5.Js](https://github.com/KamoEllen/P5Js-Challenge)
+- [project-management-api-v2 Stack: Python](https://github.com/KamoEllen/project-management-api-v2)
+<!--- [Ecommerce-Store](https://github.com/KamoEllen/Ecommerce-Store) -->
 - [Parser-AST-Calculator](https://github.com/KamoEllen/Parser-AST-Calculator)
-- [shiptivitas-2](https://github.com/KamoEllen/shiptivitas-2)
+- [shiptivitas-2 Stack:Javascript](https://github.com/KamoEllen/shiptivitas-2)
