@@ -32,7 +32,7 @@
    - **80+ categories** detected via Facebook’s DETR-ResNet-50
    - **Zero unhandled exceptions** with HuggingFace API timeout logic
    - **Repo:** [InventoryLens](https://github.com/KamoEllen/InventoryLens-Demo)
-   - [![inventory demo](https://github.com/KamoEllen/KamoEllen/blob/main/inventory.gif)]
+   - [![inventory demo](https://github.com/KamoEllen/KamoEllen/raw/main/inventory.gif)]
 ---
 
 #### **🎨 Creative Coding & Tooling**  
