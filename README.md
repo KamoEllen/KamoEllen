@@ -38,7 +38,7 @@
 1. **100 Visual Algorithms in p5.js**  
    - **3-month sprint** to build interactive simulations (fractals, pathfinding, GPU-accelerated art).
    - **Repo:** [p5.js-Algorithms](https://github.com/KamoEllen/P5Js-Challenge)
-     ![from project](https://github.com/KamoEllen/P5Js-Challenge/blob/main/45.Cube-Wave/cube%20wave.mp4)
+     ![from project](https://github.com/KamoEllen/KamoEllen/blob/main/cube%20wave.gif)
 
 2. **Parser **  
    - **96-hour sprint**
