@@ -27,7 +27,7 @@
    - **JWT auth + OAuth2** with 100% pytest coverage.  
    - **Repo:** [ProjectMgmt-API](https://github.com/KamoEllen/project-management-api-v2)
      
-4. **Project Management API (FastAPI + MongoDB)**  
+4. **InventoryLens **  
    - **1.4s FCP** for AI-powered object detection (React + FastAPI) 
    - **80+ categories** detected via Facebook’s DETR-ResNet-50
    - **Zero unhandled exceptions** with HuggingFace API timeout logic
