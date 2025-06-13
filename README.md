@@ -26,6 +26,7 @@
 
 
 
+<!--
 ### **Projects**  
 
 | **E-Commerce** | **Waste API** | **Project Manager** | **InventoryLens** |
@@ -36,6 +37,7 @@
 |-------------------|-----------------------|-------------------|-|
 | • 96-hour build<br>• 4x faster<br>[Parser-AST-Calculator](https://github.com/KamoEllen/Parser-AST-Calculator) | • 3-month coding<br>• Fractals<br>[P5Js-Challenge](https://github.com/KamoEllen/P5Js-Challenge) | • 9-hour sprint<br>• Brand redesign | |
 
+-->
 
 <!--
 1. **Scaled Headless E-Commerce**  
