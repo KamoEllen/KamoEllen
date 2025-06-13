@@ -13,6 +13,19 @@
 
 
 
+# Some of my projects
+
+| **Category**            | **Project**                                                                 | **Details**                                                                 | **Tools/Technologies**                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 🛒 **E-Commerce**       | Headless E-Commerce Platform                                               | - 60% faster load times with Next.js SSR + Stripe<br>- 17 modular components with 100% TypeScript coverage | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) |
+| 🚀 **API Development**  | Spring Boot Waste Management API                                            | - 100% exception handling with 8+ endpoints<br>- 60% smaller Docker images (multi-stage builds) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| 🚀 **API Development**  | Project Management API (FastAPI + MongoDB)                                  | - 15+ endpoints with sub-100ms responses<br>- JWT auth + OAuth2 with 100% pytest coverage<br>[Repo](https://github.com/KamoEllen/project-management-api-v2) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
+| 👁️ **Computer Vision** | InventoryLens (AI-powered object detection)                                 | - 1.4s FCP (React + FastAPI)<br>- 80+ categories via DETR-ResNet-50<br>- Zero unhandled exceptions<br>[Repo](https://github.com/KamoEllen/InventoryLens-Demo) ![Demo](https://github.com/KamoEllen/KamoEllen/raw/main/inventory.gif) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
+| 🎨 **Creative Coding**  | 100 Visual Algorithms in p5.js                                              | - 3-month sprint (fractals, pathfinding, GPU-accelerated art)<br>[Repo](https://github.com/KamoEllen/P5Js-Challenge) ![Demo](https://github.com/KamoEllen/KamoEllen/raw/main/cube%20wave.gif) | ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| ⚙️ **Compiler Tech**   | Parser (Token → AST → Evaluator)                                            | - 96-hour sprint<br>- 4x faster tokenization vs naive Split()<br>[Repo](https://github.com/KamoEllen/Parser-AST-Calculator) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Compiler](https://img.shields.io/badge/Compiler-FF6600?style=flat&logo=compiler&logoColor=white) |
+
+
+
 ### **Projects**  
 
 | **E-Commerce** | **Waste API** | **Project Manager** | **InventoryLens** |
