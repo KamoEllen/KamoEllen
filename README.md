@@ -12,6 +12,7 @@
 | ❤️ **Math**        | Linear Algebra, Calculus, and Discrete Mathematics.                        |     | **Tools**          | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 
+<!--
 
 # Some of my projects
 
@@ -26,6 +27,11 @@
 | 🎮 **Game Dev** | [3D Maze Game (Raycasting Engine)](https://github.com/KamoEllen/Game-3D-Maze) | <img src="https://raw.githubusercontent.com/KamoEllen/KamoEllen/main/maze.gif" width="400"/><br>- **Core Tech**: C + SDL2 raycasting<br>- **Features**:<br>  • Wolfenstein 3D-style rendering<br>  • Keyboard-controlled movement<br>  • Optimized for Ubuntu/Linux | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![SDL2](https://img.shields.io/badge/SDL2-FF6600?style=flat&logo=sdl&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Make](https://img.shields.io/badge/Make-003366?style=flat&logo=cmake&logoColor=white) |
 
 
+-->
+
+
+
+---------------------------------
 <!--
 # Some of my projects
 
