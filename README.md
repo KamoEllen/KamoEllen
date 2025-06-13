@@ -24,43 +24,44 @@
 | • 96-hour build<br>• 4x faster<br>[Parser-AST-Calculator](https://github.com/KamoEllen/Parser-AST-Calculator) | • 3-month coding<br>• Fractals<br>[P5Js-Challenge](https://github.com/KamoEllen/P5Js-Challenge) | • 9-hour sprint<br>• Brand redesign | |
 
 
+<!--
 1. **Scaled Headless E-Commerce**  
    - 60% faster load times  
    - 17 modular components  
    <!--- [GitHub Repo](#)  
    ![E-Commerce Demo](https://github.com/KamoEllen/KamoEllen/raw/main/ecom-demo.gif)  -->
-
+<!--
 2. **Spring Boot Waste API**  
    - 100% exception handling  
    - 60% smaller Docker images  
    - [SpringBoot-EcoManagement](https://github.com/KamoEllen/SpringBoot-EcoManagement)  
  <!--  ![API Demo](https://github.com/KamoEllen/KamoEllen/raw/main/api-demo.gif)  -->
-
+<!--
 3. **FastAPI Project Manager**  
    - 15+ endpoints (<100ms)  
    - JWT/OAuth2 auth  
    - [project-management-api-v2](https://github.com/KamoEllen/project-management-api-v2)  
    <!--![PM Demo](https://github.com/KamoEllen/KamoEllen/raw/main/pm-demo.gif)  -->
-
+<!--
 4. **InventoryLens AI**  
    - 1.4s FCP detection  
    - 80+ categories  
    - HuggingFace integration  
    - [InventoryLens-Demo](https://github.com/KamoEllen/InventoryLens-Demo)  
    <!--![AI Object Detection Demo](https://github.com/KamoEllen/KamoEllen/raw/main/demo.gif)  -->
-
+<!--
 5. **Parser Engine**  
    - 96-hour compiler build  
    - 4x faster tokenization  
    - [Parser-AST-Calculator](https://github.com/KamoEllen/Parser-AST-Calculator)  
   <!-- ![Parser Demo](https://github.com/KamoEllen/KamoEllen/raw/main/parser-demo.gif) --> 
-
+<!--
 1. **100 p5.js Algorithms**  
    - 3-month visual coding  
    - Fractals/Pathfinding  
    - [P5Js-Challenge](https://github.com/KamoEllen/P5Js-Challenge)  
   <!-- ![Cube Wave](https://github.com/KamoEllen/KamoEllen/raw/main/cube%20wave.gif)-->  
-
+<!--
 2. **Mr D App Redesign**  
    - 9-hour focused design sprint (5PM-2AM)  
    - Complete brand redesign: wireframes → hi-fi prototype  
@@ -78,6 +79,9 @@
 #### **🏆 Competitive Edge**  
 - **Top 17 GitHub Contributor in South Africa (2025)** – Ranked by public commits.  
 - **120+ CSES Algorithm Problems** – Because brute-forcing life is inefficient.  
+
+
+
 
 
 
