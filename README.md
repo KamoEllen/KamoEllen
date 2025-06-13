@@ -18,7 +18,7 @@
 | **1. Scaled Headless E-Commerce**<br>- 60% faster load times<br>- 17 modular components<br>[GitHub Repo](#) | [![E-Commerce Demo](https://github.com/KamoEllen/KamoEllen/raw/main/ecom-demo.gif)] |
 | **2. Spring Boot Waste API**<br>- 100% exception handling<br>- 60% smaller Docker images<br>[SpringBoot-EcoManagement](https://github.com/KamoEllen/SpringBoot-EcoManagement) | [![API Demo](https://github.com/KamoEllen/KamoEllen/raw/main/api-demo.gif)] |
 | **3. FastAPI Project Manager**<br>- 15+ endpoints (<100ms)<br>- JWT/OAuth2 auth<br>[project-management-api-v2](https://github.com/KamoEllen/project-management-api-v2) | [![PM Demo](https://github.com/KamoEllen/KamoEllen/raw/main/pm-demo.gif)] |
-| **4. InventoryLens AI**<br>- 1.4s FCP detection<br>- 80+ categories<br>[InventoryLens-Demo](https://github.com/KamoEllen/InventoryLens-Demo) | [![AI Demo](https://github.com/KamoEllen/KamoEllen/raw/main/demo.gif)] ||
+| **4. InventoryLens AI**<br>- 1.4s FCP detection<br>- 80+ categories<br>- HuggingFace integration<br>[InventoryLens-Demo](https://github.com/KamoEllen/InventoryLens-Demo) | [![AI Object Detection Demo](https://github.com/KamoEllen/KamoEllen/raw/main/demo.gif)] |
 
 # 🎨 Creative Coding
 | Description | Demo |
