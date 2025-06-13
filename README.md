@@ -70,7 +70,7 @@
 
 ---
 
-### **Why Work With Me?**  
+<!--### **Why Work With Me?**  
 #### **⚡ Performance Wins**  
 - **96 PageSpeed score** for a SaaS landing page (Next.js + Tailwind).  
 - **1.4s First Contentful Paint** for an AI inventory tool (React + FastAPI).  
@@ -80,7 +80,7 @@
 - **Top 17 GitHub Contributor in South Africa (2025)** – Ranked by public commits.  
 - **120+ CSES Algorithm Problems** – Because brute-forcing life is inefficient.  
 
-
+-->
 
 
 
