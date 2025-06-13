@@ -12,20 +12,21 @@
 | ❤️ **Math**        | Linear Algebra, Calculus, and Discrete Mathematics.                        |     | **Tools**          | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 # What kind of projects I do I build ?
-#💻 Backend Breakthroughs
+#💻 Backend & Systems Development
 | Description | Demo |
 |-------------|------|
 | **1. Scaled Headless E-Commerce**<br>- 60% faster load times<br>- 17 modular components<br>[GitHub Repo](#) | [![E-Commerce Demo](https://github.com/KamoEllen/KamoEllen/raw/main/ecom-demo.gif)] |
 | **2. Spring Boot Waste API**<br>- 100% exception handling<br>- 60% smaller Docker images<br>[SpringBoot-EcoManagement](https://github.com/KamoEllen/SpringBoot-EcoManagement) | [![API Demo](https://github.com/KamoEllen/KamoEllen/raw/main/api-demo.gif)] |
 | **3. FastAPI Project Manager**<br>- 15+ endpoints (<100ms)<br>- JWT/OAuth2 auth<br>[project-management-api-v2](https://github.com/KamoEllen/project-management-api-v2) | [![PM Demo](https://github.com/KamoEllen/KamoEllen/raw/main/pm-demo.gif)] |
 | **4. InventoryLens AI**<br>- 1.4s FCP detection<br>- 80+ categories<br>- HuggingFace integration<br>[InventoryLens-Demo](https://github.com/KamoEllen/InventoryLens-Demo) | [![AI Object Detection Demo](https://github.com/KamoEllen/KamoEllen/raw/main/demo.gif)] |
+| **5. Parser Engine**<br>- 96-hour compiler build<br>- 4x faster tokenization<br>[Parser-AST-Calculator](https://github.com/KamoEllen/Parser-AST-Calculator) | [![Parser Demo](https://github.com/KamoEllen/KamoEllen/raw/main/parser-demo.gif)] |
+
 
 # 🎨 Creative Coding
 | Description | Demo |
 |-------------|------|
 | **1. 100 p5.js Algorithms**<br>- 3-month visual coding<br>- Fractals/Pathfinding<br>[P5Js-Challenge](https://github.com/KamoEllen/P5Js-Challenge) | [![Cube Wave](https://github.com/KamoEllen/KamoEllen/raw/main/cube%20wave.gif)] |
-| **2. Parser Engine**<br>- 96-hour compiler build<br>- 4x faster tokenization<br>[Parser-AST-Calculator](https://github.com/KamoEllen/Parser-AST-Calculator) | [![Parser Demo](https://github.com/KamoEllen/KamoEllen/raw/main/parser-demo.gif)] |
-| **3. Mr D App Redesign**<br>- 9-hour focused design sprint (5PM-2AM)<br>- Complete brand redesign: wireframes → hi-fi prototype<br>- User research & UX exploration | [![Mr D Redesign](https://github.com/KamoEllen/KamoEllen/raw/main/demo%20(1).gif)] |
+| **2. Mr D App Redesign**<br>- 9-hour focused design sprint (5PM-2AM)<br>- Complete brand redesign: wireframes → hi-fi prototype<br>- User research & UX exploration | [![Mr D Redesign](https://github.com/KamoEllen/KamoEllen/raw/main/demo%20(1).gif)] |
 ---
 
 <!--
