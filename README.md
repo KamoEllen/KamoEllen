@@ -15,80 +15,13 @@
 
 ### **Projects**  
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
+| **E-Commerce** | **Waste API** | **Project Manager** | **InventoryLens** |
+|----------------|---------------|---------------------|-------------------|
+| • 60% faster<br>• 17 components<br>[Repo](#) | • 100% exceptions<br>• 60% smaller images<br>[SpringBoot-EcoManagement](https://github.com/KamoEllen/SpringBoot-EcoManagement) | • 15+ endpoints<br>• JWT/OAuth2<br>[project-management-api-v2](https://github.com/KamoEllen/project-management-api-v2) | • 1.4s detection<br>• 80+ categories<br>[InventoryLens-Demo](https://github.com/KamoEllen/InventoryLens-Demo) |
 
-  <!-- Column 1 -->
-  <div style="flex: 1 1 200px; min-width: 200px; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-    <h3>Scaled Headless E-Commerce</h3>
-    <ul style="padding-left: 20px;">
-      <li>60% faster load times</li>
-      <li>17 modular components</li>
-    </ul>
-    <a href="#">GitHub Repo</a>
-  </div>
-
-  <!-- Column 2 -->
-  <div style="flex: 1 1 200px; min-width: 200px; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-    <h3>Spring Boot Waste API</h3>
-    <ul style="padding-left: 20px;">
-      <li>100% exception handling</li>
-      <li>60% smaller Docker images</li>
-    </ul>
-    <a href="https://github.com/KamoEllen/SpringBoot-EcoManagement">SpringBoot-EcoManagement</a>
-  </div>
-
-  <!-- Column 3 -->
-  <div style="flex: 1 1 200px; min-width: 200px; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-    <h3>FastAPI Project Manager</h3>
-    <ul style="padding-left: 20px;">
-      <li>15+ endpoints (<100ms)</li>
-      <li>JWT/OAuth2 auth</li>
-    </ul>
-    <a href="https://github.com/KamoEllen/project-management-api-v2">project-management-api-v2</a>
-  </div>
-
-  <!-- Column 4 -->
-  <div style="flex: 1 1 200px; min-width: 200px; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-    <h3>InventoryLens AI</h3>
-    <ul style="padding-left: 20px;">
-      <li>1.4s FCP detection</li>
-      <li>80+ categories</li>
-      <li>HuggingFace integration</li>
-    </ul>
-    <a href="https://github.com/KamoEllen/InventoryLens-Demo">InventoryLens-Demo</a>
-  </div>
-
-  <!-- Row 2 Column 1 -->
-  <div style="flex: 1 1 200px; min-width: 200px; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-    <h3>Parser Engine</h3>
-    <ul style="padding-left: 20px;">
-      <li>96-hour compiler build</li>
-      <li>4x faster tokenization</li>
-    </ul>
-    <a href="https://github.com/KamoEllen/Parser-AST-Calculator">Parser-AST-Calculator</a>
-  </div>
-
-  <!-- Row 2 Column 2 -->
-  <div style="flex: 1 1 200px; min-width: 200px; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-    <h3>100 p5.js Algorithms</h3>
-    <ul style="padding-left: 20px;">
-      <li>3-month visual coding</li>
-      <li>Fractals/Pathfinding</li>
-    </ul>
-    <a href="https://github.com/KamoEllen/P5Js-Challenge">P5Js-Challenge</a>
-  </div>
-
-  <!-- Row 2 Column 3 -->
-  <div style="flex: 1 1 200px; min-width: 200px; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-    <h3>Mr D App Redesign</h3>
-    <ul style="padding-left: 20px;">
-      <li>9-hour design sprint</li>
-      <li>Complete brand redesign</li>
-      <li>User research & UX</li>
-    </ul>
-  </div>
-
-</div>
+| **Parser Engine** | **p5.js Algorithms** | **Mr D Redesign** | |
+|-------------------|-----------------------|-------------------|-|
+| • 96-hour build<br>• 4x faster<br>[Parser-AST-Calculator](https://github.com/KamoEllen/Parser-AST-Calculator) | • 3-month coding<br>• Fractals<br>[P5Js-Challenge](https://github.com/KamoEllen/P5Js-Challenge) | • 9-hour sprint<br>• Brand redesign | |
 
 
 1. **Scaled Headless E-Commerce**  
