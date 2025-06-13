@@ -27,7 +27,7 @@
    - **JWT auth + OAuth2** with 100% pytest coverage.  
    - **Repo:** [ProjectMgmt-API](https://github.com/KamoEllen/project-management-api-v2)
      
-4. **InventoryLens **  
+4. **InventoryLens**  
    - **1.4s FCP** for AI-powered object detection (React + FastAPI) 
    - **80+ categories** detected via Facebook’s DETR-ResNet-50
    - **Zero unhandled exceptions** with HuggingFace API timeout logic
@@ -38,9 +38,9 @@
 1. **100 Visual Algorithms in p5.js**  
    - **3-month sprint** to build interactive simulations (fractals, pathfinding, GPU-accelerated art).
    - **Repo:** [p5.js-Algorithms](https://github.com/KamoEllen/P5Js-Challenge)
-    [![Cube Wave Animation](https://raw.githubusercontent.com/KamoEllen/P5Js-Challenge/main/demos/cube-wave-preview.gif)](https://github.com/KamoEllen/P5Js-Challenge/blob/main/45.Cube-Wave/cube%20wave.mp4)
+   [![Cube Wave Simulation](https://github.com/KamoEllen/KamoEllen/raw/main/cube%20wave.gif)
 
-2. **Parser **  
+2. **Parser**  
    - **96-hour sprint**
    - Built a compiler-style **tokenizer → AST → evaluator** from scratch
    - **4x faster** tokenization vs. naive Split()
