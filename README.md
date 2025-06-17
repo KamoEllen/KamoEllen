@@ -1,6 +1,5 @@
-[Resume (PDF)](https://drive.google.com/file/d/12JM9cnEskz1GcgCYthFZeAX0TF2c004w/view?usp=sharing)  
+<!--[Resume (PDF)](https://drive.google.com/file/d/12JM9cnEskz1GcgCYthFZeAX0TF2c004w/view?usp=sharing)  
 *Note: Transcript contains outdated StudyHall address for privacy.*  
-<!--![resume ,transcript contains old studyhall address ](https://drive.google.com/file/d/12JM9cnEskz1GcgCYthFZeAX0TF2c004w/view?usp=sharing)
 -->
 
 > I'm currently ranked **#17** among the most active GitHub users in South Africa 🇿🇦.
