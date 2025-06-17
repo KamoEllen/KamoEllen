@@ -1,3 +1,5 @@
+![resume ,transcript contains old studyhall address ](https://drive.google.com/file/d/12JM9cnEskz1GcgCYthFZeAX0TF2c004w/view?usp=sharing)
+
 
 > I'm currently ranked **#17** among the most active GitHub users in South Africa 🇿🇦.
 > 🏆 Check it out for yourself: [https://committers.top/south\_africa.html](https://committers.top/south_africa.html)
