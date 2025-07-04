@@ -3,7 +3,7 @@
 -->
 
 > I'm currently ranked **#17** among the most active GitHub users in South Africa 🇿🇦.
-> 🏆 Check it out for yourself: [https://committers.top/south\_africa.html](https://committers.top/south_africa.html)
+> 🏆 Check it out for yourself: [https://committers.top/south\_africa.html](https://committers.top/south_africa.html) based on consistent public commits, project releases, and code maintenance
 [![committers.top badge](https://user-badge.committers.top/south_africa/KamoEllen.svg)](https://user-badge.committers.top/south_africa/KamoEllen)
 
 
