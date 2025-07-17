@@ -2,6 +2,7 @@
 *Note: Transcript contains outdated StudyHall address for privacy.*  
 -->
 
+<!--entelect https://www.linkedin.com/in/faheem-asvat-0a413311b/-->
 
 <!--
 ALX Alumni (97%) |Software Engineer | Backend/Cloud Specialist (AWS, C#, Spring Boot) | Distributed Systems & DevOps | Ex-Frontend  @Fallible | Top 15 GitHub SA 
