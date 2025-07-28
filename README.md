@@ -9,7 +9,9 @@ mentor https://www.linkedin.com/in/bradlee-wilson-a28255b4/-->
 ALX Alumni (97%) |Software Engineer | Backend/Cloud Specialist (AWS, C#, Spring Boot) | Distributed Systems & DevOps | Ex-Frontend  @Fallible | Top 15 GitHub SA 
 -->
 
-
+<!--
+math - https://www.udemy.com/course/math-tricks-shortcuts-for-competitive-exams/?couponCode=KEEPLEARNING
+-->
 > I'm currently ranked **#17** among the most active GitHub users in South Africa 🇿🇦.
 > 🏆 Check it out for yourself: [https://committers.top/south\_africa.html](https://committers.top/south_africa.html) based on consistent public commits, project releases, and code maintenance
 [![committers.top badge](https://user-badge.committers.top/south_africa/KamoEllen.svg)](https://user-badge.committers.top/south_africa/KamoEllen)
