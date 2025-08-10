@@ -3,7 +3,7 @@
 -->
 
 <!--entelect https://www.linkedin.com/in/faheem-asvat-0a413311b/
-mentor https://www.linkedin.com/in/bradlee-wilson-a28255b4/-->
+mentor https://www.linkedin.com/in/bradlee-wilson-a28255b4/  email: bradleekwilson@gmail.com ->
 
 <!--
 ALX Alumni (97%) |Software Engineer | Backend/Cloud Specialist (AWS, C#, Spring Boot) | Distributed Systems & DevOps | Ex-Frontend  @Fallible | Top 15 GitHub SA 
