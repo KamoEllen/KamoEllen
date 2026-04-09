@@ -11,9 +11,14 @@ ALX Alumni (97%) |Software Engineer | Backend/Cloud Specialist (AWS, C#, Spring 
 
 <!--
 math - https://www.udemy.com/course/math-tricks-shortcuts-for-competitive-exams/?couponCode=KEEPLEARNING
--->
+
 > I'm currently ranked **#17** among the most active GitHub users in South Africa 🇿🇦.
 > 🏆 Check it out for yourself: [https://committers.top/south\_africa.html](https://committers.top/south_africa.html) based on consistent public commits, project releases, and code maintenance
+-->
+Backend Engineer • Distributed Systems • Top 170 GitHub SA 🇿🇦
+Employee of the Year • ALX Backend Spec (96.78%)
+Building fintech & healthcare systems with .NET, Node.js, K8s
+
 [![committers.top badge](https://user-badge.committers.top/south_africa/KamoEllen.svg)](https://user-badge.committers.top/south_africa/KamoEllen)
 
 
