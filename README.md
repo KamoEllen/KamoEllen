@@ -19,8 +19,9 @@ Backend Engineer • Distributed Systems • Top 170 GitHub SA 🇿🇦
 Employee of the Year • ALX Backend Spec (96.78%)
 Building fintech & healthcare systems with .NET, Node.js, K8s
 
+<!--
 [![committers.top badge](https://user-badge.committers.top/south_africa/KamoEllen.svg)](https://user-badge.committers.top/south_africa/KamoEllen)
-
+-->
 
 # Who am I ?
 | **Category**       | **Details**                                                                 |     | **Category**       | **Skills**                                                                 |
