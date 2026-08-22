@@ -43,7 +43,7 @@ Building production systems where correctness, concurrency, and data integrity m
 
 ## Selected Systems
 
-### 💳 Double-Entry Payment Ledger  
+###  Double-Entry Payment Ledger  
 Financial correctness under concurrency  
 
 - Immutable ledger design  
@@ -57,7 +57,7 @@ Financial correctness under concurrency
 
 ---
 
-### 🏥 Audit-Safe Access Control System  
+###  Audit-Safe Access Control System  
 Authorization over sensitive data  
 
 - Non-bypassable RBAC  
@@ -71,7 +71,7 @@ Authorization over sensitive data
 
 ---
 
-### 📡 Distributed Observability Pipeline  
+###  Distributed Observability Pipeline  
 Tracing and metrics across services  
 
 - OpenTelemetry integration  
