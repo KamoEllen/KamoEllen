@@ -15,18 +15,100 @@ math - https://www.udemy.com/course/math-tricks-shortcuts-for-competitive-exams/
 > I'm currently ranked **#17** among the most active GitHub users in South Africa 🇿🇦.
 > 🏆 Check it out for yourself: [https://committers.top/south\_africa.html](https://committers.top/south_africa.html) based on consistent public commits, project releases, and code maintenance
 -->
-Backend Engineer • Distributed Systems • Top 170 GitHub SA 🇿🇦
-Employee of the Year • ALX Backend Spec (96.78%)
-Building fintech & healthcare systems with .NET, Node.js, K8s
-
 <!--
 [![committers.top badge](https://user-badge.committers.top/south_africa/KamoEllen.svg)](https://user-badge.committers.top/south_africa/KamoEllen)
 -->
 
-# Who am I ?
-| **Category**       | **Details**                                                                 |     | **Category**       | **Skills**                                                                 |
-|--------------------|-----------------------------------------------------------------------------|-----|--------------------|-----------------------------------------------------------------------------|
-| 👩🏿 **Education**  | Completed two specialized programs at [ALX](https://www.alxafrica.com/): the [Founder Academy](Founder%20Academy.png) and [Backend Software Engineering](Short%20Specializations.png).                            |     | **Frontend**       | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| 🌱 **Interests**   | Math, dancing, reading, and watching anime.                                |     | **Backend**        | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-| ❤️ **Math**        | Linear Algebra, Calculus, and Discrete Mathematics.                        |     | **Tools**          | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+# Kamogelo Ellen Kganakga
 
+**Backend Engineer · Data Correctness · Failure-Resistant Systems**
+
+Building production systems where correctness, concurrency, and data integrity matter.
+
+📍 South Africa 🇿🇦  
+🔗 [Portfolio](https://ellen-developer-portfolio.netlify.app/)  
+📄 [Resume](https://github.com/KamoEllen/classic-portfolio/blob/37a761fb837b3f506f633601aed6c2422d301e3c/docs/assets/Kamogelo_Ellen_Kganakga_Full_Stack_Software_Engineer_CV.pdf)  
+💼 [LinkedIn](https://www.linkedin.com/in/kamogelokganakga)  
+
+---
+
+## What I Work On
+
+- Backend systems for financial and operational workflows  
+- Concurrency-safe systems (locking, idempotency, transactions)  
+- APIs with strong data correctness guarantees  
+- Multi-tenant systems and access control  
+
+---
+
+## Selected Systems
+
+### 💳 Double-Entry Payment Ledger  
+Financial correctness under concurrency  
+
+- Immutable ledger design  
+- ACID transactions  
+- Deterministic locking  
+- Idempotent request handling  
+
+🔗 [Code](https://github.com/KamoEllen/ledger-system)  
+🔗 [Live API](https://ledger-system-1h27.onrender.com/swagger/index.html)  
+🔗 [Write-up](https://medium.com/@kamoellenkganakga/double-entry-ledger-system-every-decision-came-from-a-failure-357206849e5a)
+
+---
+
+### 🏥 Audit-Safe Access Control System  
+Authorization over sensitive data  
+
+- Non-bypassable RBAC  
+- Transaction-scoped audit logging  
+- Layered authorization model  
+- Query optimization with indexing  
+
+🔗 [Code](https://github.com/KamoEllen/Healthcare-System)  
+🔗 [Live API](https://healthcare-api-e38q.onrender.com/api/v1/docs/)  
+🔗 [Write-up](https://medium.com/@kamoellenkganakga/how-i-built-a-healthcare-rest-api-that-treats-data-integrity-as-a-security-problem-9f63e61a21b2)
+
+---
+
+### 📡 Distributed Observability Pipeline  
+Tracing and metrics across services  
+
+- OpenTelemetry integration  
+- Prometheus + Grafana monitoring  
+- Distributed system visibility  
+
+🔗 [Code](https://github.com/KamoEllen/Ecommerce-Devops-Pipeline)
+
+---
+
+## Experience
+
+**Software Engineer — Tiroclif**  
+Built backend systems for quotations, invoicing, payments, and accounting workflows in production.
+
+**Software Engineer — Eragateway**  
+Designed backend systems including authentication, RBAC, and multi-tenant architecture.  
+Awarded *Employee of the Year (2025)*.
+
+**Software Engineer — Fallible**  
+Built production frontend systems across React, Next.js, and Flutter.
+
+---
+
+## Stack
+
+**Backend**  
+Node.js · Express · TypeScript · C# · .NET  
+
+**Data**  
+PostgreSQL · SQL · EF Core  
+
+**Infrastructure**  
+Docker · Kubernetes · Terraform · CI/CD  
+
+---
+
+## Notes
+
+> Systems fail. Good systems are designed for it.
